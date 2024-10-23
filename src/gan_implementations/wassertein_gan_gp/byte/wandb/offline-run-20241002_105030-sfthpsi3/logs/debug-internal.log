@@ -1,0 +1,18 @@
+{"time":"2024-10-02T10:50:30.2712978+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-02T10:50:30.2718073+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20241002_105030-sfthpsi3\\logs\\debug-core.log"}
+{"time":"2024-10-02T10:50:30.2723173+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-02T10:50:30.2723173+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20241002_105030-sfthpsi3\\logs\\debug-core.log"}
+{"time":"2024-10-02T10:50:30.2799588+08:00","level":"INFO","msg":"created new stream","id":"sfthpsi3"}
+{"time":"2024-10-02T10:50:30.2804617+08:00","level":"INFO","msg":"stream: started","id":"sfthpsi3"}
+{"time":"2024-10-02T10:50:30.2804617+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sfthpsi3"}}
+{"time":"2024-10-02T10:50:30.2804845+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"sfthpsi3"}}
+{"time":"2024-10-02T10:50:30.2804617+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"sfthpsi3"}}
+{"time":"2024-10-02T10:50:30.2926131+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-02T10:50:30.293937+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-02T10:50:31.1351549+08:00","level":"INFO","msg":"stream: closing","id":"sfthpsi3"}
+{"time":"2024-10-02T10:50:31.1351549+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-02T10:50:31.1351549+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-02T10:50:31.1351549+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"sfthpsi3"}}
+{"time":"2024-10-02T10:50:31.1351549+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"sfthpsi3"}}
+{"time":"2024-10-02T10:50:31.1351549+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"sfthpsi3"}}
+{"time":"2024-10-02T10:50:31.1357102+08:00","level":"INFO","msg":"stream: closed","id":"sfthpsi3"}

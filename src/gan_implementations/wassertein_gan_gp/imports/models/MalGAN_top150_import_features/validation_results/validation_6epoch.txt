@@ -1,0 +1,21 @@
+Results
+
+Model 2017; Originally detected: 0/30; Fake detected: 0/30
+Model 2018; Originally detected: 0/30; Fake detected: 0/30
+Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+MalConv model; Originally detected: 0/30; Fake detected: 0/30
+
+Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+
+Original average imported functions: 73.7
+Fake average imported functions: 193.66666666666666
+Average number of collisions 124.88444444444444
+FID score: 25848.304264325423
+euclidean distance between original and fake samples: 59.99166608788257
+minkowski distance between original and fake samples: 59.99166608788257
+hamming distance between original and fake samples: 119.96666666666667

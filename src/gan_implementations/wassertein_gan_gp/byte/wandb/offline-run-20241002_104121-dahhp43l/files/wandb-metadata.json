@@ -1,0 +1,27 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "3.8.15",
+  "startedAt": "2024-10-02T02:41:21.617472Z",
+  "program": "C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wassertein_gan_gp.py",
+  "codePath": "wassertein_gan_gp.py",
+  "root": "C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte",
+  "host": "LAPTOP-CFIMP2EB",
+  "username": "ASUS",
+  "executable": "D:\\anacoda\\envs\\mydl\\python.exe",
+  "codePathLocal": "wassertein_gan_gp.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "290028093440",
+      "used": "239788130304"
+    }
+  },
+  "memory": {
+    "total": "16953597952"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  }
+}

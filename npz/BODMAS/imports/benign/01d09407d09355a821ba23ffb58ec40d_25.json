@@ -1,0 +1,1 @@
+{"kernel32.dll": ["LoadLibraryA"], "advapi32.dll": ["FreeSid"], "comctl32.dll": ["ordinal17"], "comdlg32.dll": ["GetOpenFileNameW"], "gdi32.dll": ["LineTo"], "ole32.dll": ["CoInitialize"], "oleaut32.dll": ["ordinal6"], "shell32.dll": ["DragFinish"], "user32.dll": ["GetDC"], "winhttp.dll": ["WinHttpGetIEProxyConfigForCurrentUser"], "ws2_32.dll": ["ordinal21"]}

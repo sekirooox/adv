@@ -1,0 +1,24 @@
+{"time":"2024-09-28T15:36:13.3640748+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-28T15:36:13.3640748+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\run-20240928_153613-53ko771z\\logs\\debug-core.log"}
+{"time":"2024-09-28T15:36:13.3651026+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-28T15:36:13.3651026+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\run-20240928_153613-53ko771z\\logs\\debug-core.log"}
+{"time":"2024-09-28T15:36:13.3697696+08:00","level":"INFO","msg":"created new stream","id":"53ko771z"}
+{"time":"2024-09-28T15:36:13.3697696+08:00","level":"INFO","msg":"stream: started","id":"53ko771z"}
+{"time":"2024-09-28T15:36:13.3697696+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"53ko771z"}}
+{"time":"2024-09-28T15:36:13.3697696+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"53ko771z"}}
+{"time":"2024-09-28T15:36:13.3697696+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"53ko771z"}}
+{"time":"2024-09-28T15:36:14.1195371+08:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-09-28T15:36:14.1195371+08:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 404 Not Found: {\"errors\":[{\"message\":\"project not found\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2024-09-28T15:36:14.2270809+08:00","level":"INFO","msg":"stream: closing","id":"53ko771z"}
+{"time":"2024-09-28T15:36:14.4618708+08:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-09-28T15:36:14.4618708+08:00","level":"ERROR","msg":"sender: sendConfig:","error":"returned error 404 Not Found: {\"errors\":[{\"message\":\"project not found\",\"path\":[\"upsertBucket\"]}],\"data\":{\"upsertBucket\":null}}"}
+{"time":"2024-09-28T15:36:14.4640191+08:00","level":"WARN","msg":"No requirements.txt found, not creating job artifact. See https://docs.wandb.ai/guides/launch/create-job"}
+{"time":"2024-09-28T15:36:14.4640191+08:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-09-28T15:36:14.5011437+08:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-09-28T15:36:14.5011437+08:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run byte-histogram-wassertein-gan-gp-final/53ko771z not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-09-28T15:36:14.7355858+08:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-09-28T15:36:14.7355858+08:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"run byte-histogram-wassertein-gan-gp-final/53ko771z not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-09-28T15:36:14.7355858+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"53ko771z"}}
+{"time":"2024-09-28T15:36:14.7355858+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"53ko771z"}}
+{"time":"2024-09-28T15:36:14.7355858+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"53ko771z"}}
+{"time":"2024-09-28T15:36:14.7360965+08:00","level":"INFO","msg":"stream: closed","id":"53ko771z"}

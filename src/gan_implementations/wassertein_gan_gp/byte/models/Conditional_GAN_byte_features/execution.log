@@ -1,0 +1,855 @@
+2024-10-15 15:41:25,112 - INFO - GAN Logger created.
+2024-10-15 15:41:25,112 - INFO - Creating directory structure to save the checkpoints and plots
+2024-10-15 15:41:25,112 - INFO - [WinError 183] 当文件已存在时，无法创建该文件。: 'models/Conditional_GAN_byte_features/generator'
+2024-10-15 15:41:25,112 - INFO - Device: cuda:0
+2024-10-15 15:41:25,112 - INFO - Tensor type: <class 'torch.tensortype'>
+2024-10-15 15:41:26,002 - INFO - 
+Epoch: 0
+2024-10-15 15:41:29,046 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:29,046 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:29,046 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:29,046 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:29,046 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:29,046 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:29,046 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:29,046 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:29,046 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:29,046 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:29,046 - INFO - Frechlet Inception Distance: 0.2470403461048974
+2024-10-15 15:41:29,046 - INFO - jensenshannon distance between original and fake samples: 0.31791403109823324
+2024-10-15 15:41:29,046 - INFO - jensenshannon distance between fake samples: 0.31791403109823324
+2024-10-15 15:41:29,065 - INFO - 
+Epoch: 1
+2024-10-15 15:41:30,045 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:30,045 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:30,045 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:30,045 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:30,045 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:30,045 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:30,045 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:30,045 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:30,045 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:30,045 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:30,045 - INFO - Frechlet Inception Distance: 0.24696441863821186
+2024-10-15 15:41:30,045 - INFO - jensenshannon distance between original and fake samples: 0.3179690302442211
+2024-10-15 15:41:30,045 - INFO - jensenshannon distance between fake samples: 0.3179690302442211
+2024-10-15 15:41:30,059 - INFO - 
+Epoch: 2
+2024-10-15 15:41:31,039 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:31,039 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:31,039 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:31,039 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:31,039 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:31,039 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:31,039 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:31,039 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:31,039 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:31,039 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:31,039 - INFO - Frechlet Inception Distance: 0.24648509546014014
+2024-10-15 15:41:31,039 - INFO - jensenshannon distance between original and fake samples: 0.31800183304522284
+2024-10-15 15:41:31,039 - INFO - jensenshannon distance between fake samples: 0.31800183304522284
+2024-10-15 15:41:31,047 - INFO - 
+Epoch: 3
+2024-10-15 15:41:32,016 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:32,017 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:32,017 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:32,017 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:32,017 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:32,017 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:32,017 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:32,017 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:32,017 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:32,017 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:32,017 - INFO - Frechlet Inception Distance: 0.24658514640487317
+2024-10-15 15:41:32,017 - INFO - jensenshannon distance between original and fake samples: 0.317903930093124
+2024-10-15 15:41:32,017 - INFO - jensenshannon distance between fake samples: 0.317903930093124
+2024-10-15 15:41:32,027 - INFO - 
+Epoch: 4
+2024-10-15 15:41:33,112 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:33,112 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:33,113 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:33,113 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:33,113 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:33,113 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:33,113 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:33,113 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:33,113 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:33,113 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:33,113 - INFO - Frechlet Inception Distance: 0.24658984272809892
+2024-10-15 15:41:33,113 - INFO - jensenshannon distance between original and fake samples: 0.3181462657018671
+2024-10-15 15:41:33,113 - INFO - jensenshannon distance between fake samples: 0.3181462657018671
+2024-10-15 15:41:33,126 - INFO - 
+Epoch: 5
+2024-10-15 15:41:34,167 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:34,167 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:34,167 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:34,167 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:34,168 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:34,168 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:34,168 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:34,168 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:34,168 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:34,168 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:34,168 - INFO - Frechlet Inception Distance: 0.2464129590103049
+2024-10-15 15:41:34,168 - INFO - jensenshannon distance between original and fake samples: 0.31800927178118693
+2024-10-15 15:41:34,168 - INFO - jensenshannon distance between fake samples: 0.31800927178118693
+2024-10-15 15:41:34,182 - INFO - 
+Epoch: 6
+2024-10-15 15:41:35,198 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:35,198 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:35,198 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:35,198 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:35,198 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:35,199 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:35,199 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:35,199 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:35,199 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:35,199 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:35,199 - INFO - Frechlet Inception Distance: 0.2464345729122869
+2024-10-15 15:41:35,199 - INFO - jensenshannon distance between original and fake samples: 0.3179766454817686
+2024-10-15 15:41:35,199 - INFO - jensenshannon distance between fake samples: 0.3179766454817686
+2024-10-15 15:41:35,210 - INFO - 
+Epoch: 7
+2024-10-15 15:41:36,248 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:36,248 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:36,248 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:36,248 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:36,248 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:36,248 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:36,248 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:36,248 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:36,248 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:36,248 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:36,248 - INFO - Frechlet Inception Distance: 0.24684626729195486
+2024-10-15 15:41:36,248 - INFO - jensenshannon distance between original and fake samples: 0.31793840343181257
+2024-10-15 15:41:36,248 - INFO - jensenshannon distance between fake samples: 0.31793840343181257
+2024-10-15 15:41:36,259 - INFO - 
+Epoch: 8
+2024-10-15 15:41:37,410 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:37,410 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:37,410 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:37,410 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:37,410 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:37,410 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:37,410 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:37,410 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:37,410 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:37,410 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:37,410 - INFO - Frechlet Inception Distance: 0.24653945513984216
+2024-10-15 15:41:37,410 - INFO - jensenshannon distance between original and fake samples: 0.3179081252130992
+2024-10-15 15:41:37,410 - INFO - jensenshannon distance between fake samples: 0.3179081252130992
+2024-10-15 15:41:37,424 - INFO - 
+Epoch: 9
+2024-10-15 15:41:38,729 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:38,729 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:38,729 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:38,729 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:38,729 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:38,729 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:38,729 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:38,729 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:38,729 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:38,729 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:38,729 - INFO - Frechlet Inception Distance: 0.24645577822015
+2024-10-15 15:41:38,729 - INFO - jensenshannon distance between original and fake samples: 0.31799434727541986
+2024-10-15 15:41:38,729 - INFO - jensenshannon distance between fake samples: 0.31799434727541986
+2024-10-15 15:41:38,740 - INFO - 
+Epoch: 10
+2024-10-15 15:41:40,062 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:40,062 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:40,063 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:40,063 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:40,063 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:40,063 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:40,063 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:40,063 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:40,064 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:40,064 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:40,064 - INFO - Frechlet Inception Distance: 0.24665748366002632
+2024-10-15 15:41:40,064 - INFO - jensenshannon distance between original and fake samples: 0.31806204081026385
+2024-10-15 15:41:40,064 - INFO - jensenshannon distance between fake samples: 0.31806204081026385
+2024-10-15 15:41:40,083 - INFO - 
+Epoch: 11
+2024-10-15 15:41:41,495 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:41,495 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:41,495 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:41,495 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:41,495 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:41,495 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:41,495 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:41,495 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:41,495 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:41,495 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:41,495 - INFO - Frechlet Inception Distance: 0.24668180828330905
+2024-10-15 15:41:41,495 - INFO - jensenshannon distance between original and fake samples: 0.317900156781499
+2024-10-15 15:41:41,495 - INFO - jensenshannon distance between fake samples: 0.317900156781499
+2024-10-15 15:41:41,508 - INFO - 
+Epoch: 12
+2024-10-15 15:41:42,528 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:42,528 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:42,528 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:42,528 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:42,528 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:42,528 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:42,528 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:42,528 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:42,528 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:42,528 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:42,528 - INFO - Frechlet Inception Distance: 0.24708899605501583
+2024-10-15 15:41:42,528 - INFO - jensenshannon distance between original and fake samples: 0.31801661663006714
+2024-10-15 15:41:42,529 - INFO - jensenshannon distance between fake samples: 0.31801661663006714
+2024-10-15 15:41:42,540 - INFO - 
+Epoch: 13
+2024-10-15 15:41:43,579 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:43,580 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:43,580 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:43,580 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:43,580 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:43,580 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:43,580 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:43,580 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:43,580 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:43,580 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:43,580 - INFO - Frechlet Inception Distance: 0.24688576113438407
+2024-10-15 15:41:43,580 - INFO - jensenshannon distance between original and fake samples: 0.3179031801217089
+2024-10-15 15:41:43,580 - INFO - jensenshannon distance between fake samples: 0.3179031801217089
+2024-10-15 15:41:43,592 - INFO - 
+Epoch: 14
+2024-10-15 15:41:44,619 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:44,619 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:44,619 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:44,619 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:44,619 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:44,619 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:44,619 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:44,619 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:44,619 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:44,619 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:44,619 - INFO - Frechlet Inception Distance: 0.24647285246706474
+2024-10-15 15:41:44,619 - INFO - jensenshannon distance between original and fake samples: 0.31798445969747724
+2024-10-15 15:41:44,619 - INFO - jensenshannon distance between fake samples: 0.31798445969747724
+2024-10-15 15:41:44,630 - INFO - 
+Epoch: 15
+2024-10-15 15:41:45,640 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:45,640 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:45,640 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:45,640 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:45,640 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:45,640 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:45,640 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:45,640 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:45,640 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:45,640 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:45,640 - INFO - Frechlet Inception Distance: 0.24733341649298612
+2024-10-15 15:41:45,640 - INFO - jensenshannon distance between original and fake samples: 0.31772432000425654
+2024-10-15 15:41:45,640 - INFO - jensenshannon distance between fake samples: 0.31772432000425654
+2024-10-15 15:41:45,652 - INFO - 
+Epoch: 16
+2024-10-15 15:41:46,718 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:46,718 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:46,718 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:46,718 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:46,718 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:46,718 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:46,718 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:46,718 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:46,718 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:46,718 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:46,718 - INFO - Frechlet Inception Distance: 0.24686332912415274
+2024-10-15 15:41:46,718 - INFO - jensenshannon distance between original and fake samples: 0.3179914302375957
+2024-10-15 15:41:46,718 - INFO - jensenshannon distance between fake samples: 0.3179914302375957
+2024-10-15 15:41:46,730 - INFO - 
+Epoch: 17
+2024-10-15 15:41:47,764 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:47,764 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:47,764 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:47,764 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:47,764 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:47,764 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:47,764 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:47,764 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:47,764 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:47,764 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:47,764 - INFO - Frechlet Inception Distance: 0.24679782984030046
+2024-10-15 15:41:47,764 - INFO - jensenshannon distance between original and fake samples: 0.3177900079065605
+2024-10-15 15:41:47,764 - INFO - jensenshannon distance between fake samples: 0.3177900079065605
+2024-10-15 15:41:47,776 - INFO - 
+Epoch: 18
+2024-10-15 15:41:48,817 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:48,817 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:48,817 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:48,817 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:48,817 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:48,817 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:48,817 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:48,817 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:48,817 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:48,817 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:48,817 - INFO - Frechlet Inception Distance: 0.24673313643773795
+2024-10-15 15:41:48,817 - INFO - jensenshannon distance between original and fake samples: 0.31791602313791906
+2024-10-15 15:41:48,817 - INFO - jensenshannon distance between fake samples: 0.31791602313791906
+2024-10-15 15:41:48,830 - INFO - 
+Epoch: 19
+2024-10-15 15:41:50,129 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:50,129 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:50,129 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:50,129 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:50,129 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:50,129 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:50,129 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:50,129 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:50,129 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:50,129 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:50,129 - INFO - Frechlet Inception Distance: 0.24679179430855716
+2024-10-15 15:41:50,129 - INFO - jensenshannon distance between original and fake samples: 0.31781788276607603
+2024-10-15 15:41:50,129 - INFO - jensenshannon distance between fake samples: 0.31781788276607603
+2024-10-15 15:41:50,142 - INFO - 
+Epoch: 20
+2024-10-15 15:41:51,379 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:51,379 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:51,379 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:51,379 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:51,379 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:51,379 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:51,379 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:51,379 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:51,380 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:51,380 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:51,380 - INFO - Frechlet Inception Distance: 0.2472338373868066
+2024-10-15 15:41:51,380 - INFO - jensenshannon distance between original and fake samples: 0.3179326151717611
+2024-10-15 15:41:51,380 - INFO - jensenshannon distance between fake samples: 0.3179326151717611
+2024-10-15 15:41:51,393 - INFO - 
+Epoch: 21
+2024-10-15 15:41:52,453 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:52,453 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:52,454 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:52,454 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:52,454 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:52,454 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:52,454 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:52,454 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:52,454 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:52,454 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:52,454 - INFO - Frechlet Inception Distance: 0.24674049646689575
+2024-10-15 15:41:52,454 - INFO - jensenshannon distance between original and fake samples: 0.31795798196766106
+2024-10-15 15:41:52,454 - INFO - jensenshannon distance between fake samples: 0.31795798196766106
+2024-10-15 15:41:52,466 - INFO - 
+Epoch: 22
+2024-10-15 15:41:53,457 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:53,457 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:53,457 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:53,457 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:53,457 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:53,457 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:53,457 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:53,457 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:53,458 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:53,458 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:53,458 - INFO - Frechlet Inception Distance: 0.24676481526483796
+2024-10-15 15:41:53,458 - INFO - jensenshannon distance between original and fake samples: 0.31800070843377765
+2024-10-15 15:41:53,458 - INFO - jensenshannon distance between fake samples: 0.31800070843377765
+2024-10-15 15:41:53,470 - INFO - 
+Epoch: 23
+2024-10-15 15:41:54,486 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:54,486 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:54,486 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:54,486 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:54,486 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:54,486 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:54,486 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:54,486 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:54,486 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:54,486 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:54,486 - INFO - Frechlet Inception Distance: 0.24669947927979768
+2024-10-15 15:41:54,486 - INFO - jensenshannon distance between original and fake samples: 0.3180236333208786
+2024-10-15 15:41:54,486 - INFO - jensenshannon distance between fake samples: 0.3180236333208786
+2024-10-15 15:41:54,498 - INFO - 
+Epoch: 24
+2024-10-15 15:41:55,508 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:55,508 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:55,508 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:55,508 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:55,508 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:55,508 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:55,508 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:55,508 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:55,508 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:55,508 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:55,508 - INFO - Frechlet Inception Distance: 0.24650706947075318
+2024-10-15 15:41:55,508 - INFO - jensenshannon distance between original and fake samples: 0.31801119293826546
+2024-10-15 15:41:55,508 - INFO - jensenshannon distance between fake samples: 0.31801119293826546
+2024-10-15 15:41:55,521 - INFO - 
+Epoch: 25
+2024-10-15 15:41:56,554 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:56,554 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:56,554 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:56,554 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:56,554 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:56,554 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:56,554 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:56,554 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:56,554 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:56,554 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:56,554 - INFO - Frechlet Inception Distance: 0.24706702546558493
+2024-10-15 15:41:56,554 - INFO - jensenshannon distance between original and fake samples: 0.31779136771253086
+2024-10-15 15:41:56,554 - INFO - jensenshannon distance between fake samples: 0.31779136771253086
+2024-10-15 15:41:56,567 - INFO - 
+Epoch: 26
+2024-10-15 15:41:57,600 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:57,600 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:57,600 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:57,600 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:57,600 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:57,600 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:57,601 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:57,601 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:57,601 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:57,601 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:57,601 - INFO - Frechlet Inception Distance: 0.24691788903438372
+2024-10-15 15:41:57,601 - INFO - jensenshannon distance between original and fake samples: 0.31793523982095606
+2024-10-15 15:41:57,601 - INFO - jensenshannon distance between fake samples: 0.31793523982095606
+2024-10-15 15:41:57,612 - INFO - 
+Epoch: 27
+2024-10-15 15:41:58,698 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:58,699 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:58,699 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:58,699 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:58,699 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:58,699 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:58,699 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:58,699 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:58,699 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:58,699 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:58,699 - INFO - Frechlet Inception Distance: 0.24649527578880664
+2024-10-15 15:41:58,699 - INFO - jensenshannon distance between original and fake samples: 0.3179958467864584
+2024-10-15 15:41:58,699 - INFO - jensenshannon distance between fake samples: 0.3179958467864584
+2024-10-15 15:41:58,712 - INFO - 
+Epoch: 28
+2024-10-15 15:41:59,820 - INFO - 
+
+Evaluation results:
+2024-10-15 15:41:59,820 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:59,820 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:59,820 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:59,820 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:59,820 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:59,820 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:59,820 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:59,820 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:59,820 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:41:59,820 - INFO - Frechlet Inception Distance: 0.24680465979220473
+2024-10-15 15:41:59,820 - INFO - jensenshannon distance between original and fake samples: 0.3178901959611121
+2024-10-15 15:41:59,820 - INFO - jensenshannon distance between fake samples: 0.3178901959611121
+2024-10-15 15:41:59,833 - INFO - 
+Epoch: 29
+2024-10-15 15:42:00,952 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:00,952 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:00,952 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:00,952 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:00,952 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:00,952 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:00,952 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:00,952 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:00,952 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:00,952 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:00,952 - INFO - Frechlet Inception Distance: 0.2470986696422779
+2024-10-15 15:42:00,952 - INFO - jensenshannon distance between original and fake samples: 0.31795785308836283
+2024-10-15 15:42:00,952 - INFO - jensenshannon distance between fake samples: 0.31795785308836283
+2024-10-15 15:42:00,965 - INFO - 
+Epoch: 30
+2024-10-15 15:42:02,057 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:02,057 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:02,057 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:02,057 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:02,057 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:02,057 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:02,057 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:02,057 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:02,057 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:02,057 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:02,057 - INFO - Frechlet Inception Distance: 0.24715337980126384
+2024-10-15 15:42:02,057 - INFO - jensenshannon distance between original and fake samples: 0.3179000161603244
+2024-10-15 15:42:02,057 - INFO - jensenshannon distance between fake samples: 0.3179000161603244
+2024-10-15 15:42:02,072 - INFO - 
+Epoch: 31
+2024-10-15 15:42:03,141 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:03,141 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:03,141 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:03,141 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:03,141 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:03,141 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:03,141 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:03,141 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:03,141 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:03,141 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:03,141 - INFO - Frechlet Inception Distance: 0.2468360067396703
+2024-10-15 15:42:03,141 - INFO - jensenshannon distance between original and fake samples: 0.31799413640611296
+2024-10-15 15:42:03,141 - INFO - jensenshannon distance between fake samples: 0.31799413640611296
+2024-10-15 15:42:03,156 - INFO - 
+Epoch: 32
+2024-10-15 15:42:04,175 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:04,175 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:04,175 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:04,175 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:04,175 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:04,175 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:04,175 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:04,175 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:04,175 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:04,175 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:04,175 - INFO - Frechlet Inception Distance: 0.2467114612228789
+2024-10-15 15:42:04,175 - INFO - jensenshannon distance between original and fake samples: 0.31802237993337634
+2024-10-15 15:42:04,175 - INFO - jensenshannon distance between fake samples: 0.31802237993337634
+2024-10-15 15:42:04,188 - INFO - 
+Epoch: 33
+2024-10-15 15:42:05,213 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:05,213 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:05,213 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:05,213 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:05,213 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:05,213 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:05,213 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:05,213 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:05,213 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:05,213 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:05,213 - INFO - Frechlet Inception Distance: 0.24665470303621612
+2024-10-15 15:42:05,213 - INFO - jensenshannon distance between original and fake samples: 0.31799128965678375
+2024-10-15 15:42:05,213 - INFO - jensenshannon distance between fake samples: 0.31799128965678375
+2024-10-15 15:42:05,226 - INFO - 
+Epoch: 34
+2024-10-15 15:42:06,272 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:06,272 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:06,273 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:06,273 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:06,273 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:06,273 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:06,273 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:06,273 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:06,273 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:06,273 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:06,273 - INFO - Frechlet Inception Distance: 0.24673804132342983
+2024-10-15 15:42:06,273 - INFO - jensenshannon distance between original and fake samples: 0.3179941012612149
+2024-10-15 15:42:06,273 - INFO - jensenshannon distance between fake samples: 0.3179941012612149
+2024-10-15 15:42:06,284 - INFO - 
+Epoch: 35
+2024-10-15 15:42:07,298 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:07,299 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:07,299 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:07,299 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:07,299 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:07,299 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:07,299 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:07,299 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:07,299 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:07,299 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:07,299 - INFO - Frechlet Inception Distance: 0.24629070290738334
+2024-10-15 15:42:07,299 - INFO - jensenshannon distance between original and fake samples: 0.3177619781960147
+2024-10-15 15:42:07,299 - INFO - jensenshannon distance between fake samples: 0.3177619781960147
+2024-10-15 15:42:07,311 - INFO - 
+Epoch: 36
+2024-10-15 15:42:08,425 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:08,425 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:08,425 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:08,425 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:08,425 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:08,425 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:08,425 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:08,425 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:08,425 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:08,425 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:08,425 - INFO - Frechlet Inception Distance: 0.24658266960620331
+2024-10-15 15:42:08,425 - INFO - jensenshannon distance between original and fake samples: 0.317917148048933
+2024-10-15 15:42:08,425 - INFO - jensenshannon distance between fake samples: 0.317917148048933
+2024-10-15 15:42:08,436 - INFO - 
+Epoch: 37
+2024-10-15 15:42:09,439 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:09,439 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:09,439 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:09,439 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:09,439 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:09,439 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:09,439 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:09,440 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:09,440 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:09,440 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:09,440 - INFO - Frechlet Inception Distance: 0.24686557866354397
+2024-10-15 15:42:09,440 - INFO - jensenshannon distance between original and fake samples: 0.31783975426196315
+2024-10-15 15:42:09,440 - INFO - jensenshannon distance between fake samples: 0.31783975426196315
+2024-10-15 15:42:09,452 - INFO - 
+Epoch: 38
+2024-10-15 15:42:10,504 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:10,504 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:10,504 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:10,504 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:10,504 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:10,505 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:10,505 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:10,505 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:10,505 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:10,505 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:10,505 - INFO - Frechlet Inception Distance: 0.24692165917471512
+2024-10-15 15:42:10,505 - INFO - jensenshannon distance between original and fake samples: 0.317881547372152
+2024-10-15 15:42:10,505 - INFO - jensenshannon distance between fake samples: 0.317881547372152
+2024-10-15 15:42:10,517 - INFO - 
+Epoch: 39
+2024-10-15 15:42:11,581 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:11,581 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:11,581 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:11,581 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:11,581 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:11,581 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:11,581 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:11,581 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:11,581 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:11,581 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:11,581 - INFO - Frechlet Inception Distance: 0.24701961546991102
+2024-10-15 15:42:11,581 - INFO - jensenshannon distance between original and fake samples: 0.317893723299083
+2024-10-15 15:42:11,581 - INFO - jensenshannon distance between fake samples: 0.317893723299083
+2024-10-15 15:42:11,594 - INFO - 
+Epoch: 40
+2024-10-15 15:42:12,682 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:12,682 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:12,683 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:12,683 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:12,683 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:12,683 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:12,683 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:12,683 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:12,683 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:12,683 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:12,683 - INFO - Frechlet Inception Distance: 0.2473051534623153
+2024-10-15 15:42:12,683 - INFO - jensenshannon distance between original and fake samples: 0.31788167628238706
+2024-10-15 15:42:12,683 - INFO - jensenshannon distance between fake samples: 0.31788167628238706
+2024-10-15 15:42:12,695 - INFO - 
+Epoch: 41
+2024-10-15 15:42:14,005 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:14,005 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:14,005 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:14,005 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:14,005 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:14,005 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:14,005 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:14,005 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:14,005 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:14,005 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:14,005 - INFO - Frechlet Inception Distance: 0.24632197752578736
+2024-10-15 15:42:14,005 - INFO - jensenshannon distance between original and fake samples: 0.3179026176419864
+2024-10-15 15:42:14,005 - INFO - jensenshannon distance between fake samples: 0.3179026176419864
+2024-10-15 15:42:14,019 - INFO - 
+Epoch: 42
+2024-10-15 15:42:16,476 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:16,476 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:16,476 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:16,476 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:16,476 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:16,476 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:16,476 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:16,476 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:16,476 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:16,476 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:16,476 - INFO - Frechlet Inception Distance: 0.2466747049072808
+2024-10-15 15:42:16,476 - INFO - jensenshannon distance between original and fake samples: 0.31797718439936196
+2024-10-15 15:42:16,476 - INFO - jensenshannon distance between fake samples: 0.31797718439936196
+2024-10-15 15:42:16,505 - INFO - 
+Epoch: 43
+2024-10-15 15:42:17,846 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:17,846 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:17,847 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:17,847 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:17,847 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:17,847 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:17,847 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:17,847 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:17,847 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:17,847 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:17,847 - INFO - Frechlet Inception Distance: 0.24668816938096644
+2024-10-15 15:42:17,847 - INFO - jensenshannon distance between original and fake samples: 0.31792000717984525
+2024-10-15 15:42:17,847 - INFO - jensenshannon distance between fake samples: 0.31792000717984525
+2024-10-15 15:42:17,863 - INFO - 
+Epoch: 44
+2024-10-15 15:42:19,165 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:19,165 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:19,165 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:19,165 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:19,165 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:19,165 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:19,166 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:19,166 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:19,166 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:19,166 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:19,166 - INFO - Frechlet Inception Distance: 0.24638131778659886
+2024-10-15 15:42:19,166 - INFO - jensenshannon distance between original and fake samples: 0.31800642516734745
+2024-10-15 15:42:19,166 - INFO - jensenshannon distance between fake samples: 0.31800642516734745
+2024-10-15 15:42:19,179 - INFO - 
+Epoch: 45
+2024-10-15 15:42:20,340 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:20,341 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:20,341 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:20,341 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:20,341 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:20,341 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:20,341 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:20,341 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:20,341 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:20,341 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:20,341 - INFO - Frechlet Inception Distance: 0.24688044591039401
+2024-10-15 15:42:20,341 - INFO - jensenshannon distance between original and fake samples: 0.31791570675597924
+2024-10-15 15:42:20,341 - INFO - jensenshannon distance between fake samples: 0.31791570675597924
+2024-10-15 15:42:20,354 - INFO - 
+Epoch: 46
+2024-10-15 15:42:21,977 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:21,977 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:21,977 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:21,977 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:21,977 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:21,978 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:21,978 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:21,978 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:21,978 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:21,978 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:21,978 - INFO - Frechlet Inception Distance: 0.24682920513178658
+2024-10-15 15:42:21,978 - INFO - jensenshannon distance between original and fake samples: 0.31804341744680215
+2024-10-15 15:42:21,978 - INFO - jensenshannon distance between fake samples: 0.31804341744680215
+2024-10-15 15:42:21,991 - INFO - 
+Epoch: 47
+2024-10-15 15:42:23,134 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:23,134 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:23,134 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:23,134 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:23,134 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:23,134 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:23,134 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:23,134 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:23,134 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:23,134 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:23,134 - INFO - Frechlet Inception Distance: 0.2467459747647314
+2024-10-15 15:42:23,134 - INFO - jensenshannon distance between original and fake samples: 0.31787200786968933
+2024-10-15 15:42:23,134 - INFO - jensenshannon distance between fake samples: 0.31787200786968933
+2024-10-15 15:42:23,147 - INFO - 
+Epoch: 48
+2024-10-15 15:42:24,298 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:24,298 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:24,298 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:24,298 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:24,298 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:24,299 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:24,299 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:24,299 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:24,299 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:24,299 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:24,299 - INFO - Frechlet Inception Distance: 0.24649618358137154
+2024-10-15 15:42:24,299 - INFO - jensenshannon distance between original and fake samples: 0.3180658356260593
+2024-10-15 15:42:24,299 - INFO - jensenshannon distance between fake samples: 0.3180658356260593
+2024-10-15 15:42:24,311 - INFO - 
+Epoch: 49
+2024-10-15 15:42:25,435 - INFO - 
+
+Evaluation results:
+2024-10-15 15:42:25,435 - INFO - Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:25,435 - INFO - Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:25,435 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:25,435 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:25,435 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:25,435 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:25,435 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:25,435 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:25,435 - INFO - MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 15:42:25,435 - INFO - Frechlet Inception Distance: 0.24692475365052965
+2024-10-15 15:42:25,435 - INFO - jensenshannon distance between original and fake samples: 0.31797802792071783
+2024-10-15 15:42:25,435 - INFO - jensenshannon distance between fake samples: 0.31797802792071783

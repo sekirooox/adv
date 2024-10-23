@@ -1,0 +1,18 @@
+{"time":"2024-09-28T15:38:57.9687128+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-28T15:38:57.9687128+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20240928_153857-kjoyvbjo\\logs\\debug-core.log"}
+{"time":"2024-09-28T15:38:57.9713267+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-28T15:38:57.9713267+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20240928_153857-kjoyvbjo\\logs\\debug-core.log"}
+{"time":"2024-09-28T15:38:57.9754396+08:00","level":"INFO","msg":"created new stream","id":"kjoyvbjo"}
+{"time":"2024-09-28T15:38:57.9759529+08:00","level":"INFO","msg":"stream: started","id":"kjoyvbjo"}
+{"time":"2024-09-28T15:38:57.9759529+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"kjoyvbjo"}}
+{"time":"2024-09-28T15:38:57.9759529+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"kjoyvbjo"}}
+{"time":"2024-09-28T15:38:57.9759529+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"kjoyvbjo"}}
+{"time":"2024-09-28T15:38:57.9887039+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-28T15:38:57.9899818+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-28T15:38:58.6248491+08:00","level":"INFO","msg":"stream: closing","id":"kjoyvbjo"}
+{"time":"2024-09-28T15:38:58.6248491+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-28T15:38:58.6248491+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-28T15:38:58.6253861+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"kjoyvbjo"}}
+{"time":"2024-09-28T15:38:58.6253861+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"kjoyvbjo"}}
+{"time":"2024-09-28T15:38:58.6253861+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"kjoyvbjo"}}
+{"time":"2024-09-28T15:38:58.6258992+08:00","level":"INFO","msg":"stream: closed","id":"kjoyvbjo"}

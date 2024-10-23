@@ -1,0 +1,19 @@
+{
+  "objective": "binary",
+  "metric": "binary_logloss",
+  "learning_rate": 1e-3,
+  "num_leaves": 64,
+  "max_depth": 10,
+  "min_data_in_leaf": 50,
+  "lambda_l1": 0.1,
+  "lambda_l2": 0.1,
+  "feature_fraction": 0.7,
+  "bagging_fraction": 0.7,
+  "bagging_freq": 5,
+  "min_gain_to_split": 0.01,
+  "early_stopping_rounds": 100,
+  "num_iterations": 2000,
+  "verbosity": 1,
+  "random_state": 1412,
+}
+

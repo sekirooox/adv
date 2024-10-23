@@ -1,0 +1,18 @@
+{"time":"2024-10-03T15:25:25.3218199+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-03T15:25:25.3218199+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20241003_152525-emb6e0ev\\logs\\debug-core.log"}
+{"time":"2024-10-03T15:25:25.3223256+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-03T15:25:25.3223256+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20241003_152525-emb6e0ev\\logs\\debug-core.log"}
+{"time":"2024-10-03T15:25:25.3304494+08:00","level":"INFO","msg":"created new stream","id":"emb6e0ev"}
+{"time":"2024-10-03T15:25:25.3309559+08:00","level":"INFO","msg":"stream: started","id":"emb6e0ev"}
+{"time":"2024-10-03T15:25:25.3309559+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"emb6e0ev"}}
+{"time":"2024-10-03T15:25:25.3309741+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"emb6e0ev"}}
+{"time":"2024-10-03T15:25:25.3309559+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"emb6e0ev"}}
+{"time":"2024-10-03T15:25:25.3434921+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-03T15:25:25.3453819+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-03T15:25:26.1569651+08:00","level":"INFO","msg":"stream: closing","id":"emb6e0ev"}
+{"time":"2024-10-03T15:25:26.1569651+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-03T15:25:26.1569651+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-03T15:25:26.1569651+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"emb6e0ev"}}
+{"time":"2024-10-03T15:25:26.1569651+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"emb6e0ev"}}
+{"time":"2024-10-03T15:25:26.1569651+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"emb6e0ev"}}
+{"time":"2024-10-03T15:25:26.1569651+08:00","level":"INFO","msg":"stream: closed","id":"emb6e0ev"}

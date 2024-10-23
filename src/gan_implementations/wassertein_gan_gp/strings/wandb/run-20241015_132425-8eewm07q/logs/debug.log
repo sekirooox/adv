@@ -1,0 +1,28 @@
+2024-10-15 13:24:25,240 INFO    MainThread:7552 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-15 13:24:25,240 INFO    MainThread:7552 [wandb_setup.py:_flush():79] Configure stats pid to 7552
+2024-10-15 13:24:25,240 INFO    MainThread:7552 [wandb_setup.py:_flush():79] Loading settings from C:\Users\ASUS\.config\wandb\settings
+2024-10-15 13:24:25,240 INFO    MainThread:7552 [wandb_setup.py:_flush():79] Loading settings from C:\Users\ASUS\PycharmProjects\pythonProject\adv_mlw_examples_generation_with_gans-main\src\gan_implementations\wassertein_gan_gp\strings\wandb\settings
+2024-10-15 13:24:25,241 INFO    MainThread:7552 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-15 13:24:25,243 INFO    MainThread:7552 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-10-15 13:24:25,243 INFO    MainThread:7552 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'wassertein_gan_gp.py', 'program_abspath': 'C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\strings\\wassertein_gan_gp.py', 'program': 'C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\strings\\wassertein_gan_gp.py'}
+2024-10-15 13:24:25,243 INFO    MainThread:7552 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-15 13:24:25,243 INFO    MainThread:7552 [wandb_init.py:_log_setup():532] Logging user logs to C:\Users\ASUS\PycharmProjects\pythonProject\adv_mlw_examples_generation_with_gans-main\src\gan_implementations\wassertein_gan_gp\strings\wandb\run-20241015_132425-8eewm07q\logs\debug.log
+2024-10-15 13:24:25,243 INFO    MainThread:7552 [wandb_init.py:_log_setup():533] Logging internal logs to C:\Users\ASUS\PycharmProjects\pythonProject\adv_mlw_examples_generation_with_gans-main\src\gan_implementations\wassertein_gan_gp\strings\wandb\run-20241015_132425-8eewm07q\logs\debug-internal.log
+2024-10-15 13:24:25,243 INFO    MainThread:7552 [wandb_init.py:init():617] calling init triggers
+2024-10-15 13:24:25,243 INFO    MainThread:7552 [wandb_init.py:init():625] wandb.init called with sweep_config: {}
+config: {'learning_rate': {'discriminator': 0.0001, 'generator': 0.0001}, 'beta1': 0.0, 'beta2': 0.999, 'epochs': 10, 'batch_size': 32, 'label_smoothing': 1.0}
+2024-10-15 13:24:25,244 INFO    MainThread:7552 [wandb_init.py:init():667] starting backend
+2024-10-15 13:24:25,244 INFO    MainThread:7552 [wandb_init.py:init():671] sending inform_init request
+2024-10-15 13:24:25,252 INFO    MainThread:7552 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=spawn, using: spawn
+2024-10-15 13:24:25,252 INFO    MainThread:7552 [wandb_init.py:init():684] backend started and connected
+2024-10-15 13:24:25,265 INFO    MainThread:7552 [wandb_init.py:init():779] updated telemetry
+2024-10-15 13:24:25,267 INFO    MainThread:7552 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-15 13:24:26,182 ERROR   MainThread:7552 [wandb_init.py:init():838] encountered error: failed to upsert bucket: returned error 404 Not Found: {"errors":[{"message":"project not found","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-10-15 13:24:26,182 ERROR   MainThread:7552 [wandb_init.py:init():1262] error in wandb.init()
+Traceback (most recent call last):
+  File "D:\anacoda\envs\ember\lib\site-packages\wandb\sdk\wandb_init.py", line 1252, in init
+    return wi.init()
+  File "D:\anacoda\envs\ember\lib\site-packages\wandb\sdk\wandb_init.py", line 844, in init
+    raise error
+wandb.errors.errors.CommError: failed to upsert bucket: returned error 404 Not Found: {"errors":[{"message":"project not found","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-10-15 13:24:26,305 WARNING MsgRouterThr:7552 [router.py:message_loop():77] message_loop has been closed

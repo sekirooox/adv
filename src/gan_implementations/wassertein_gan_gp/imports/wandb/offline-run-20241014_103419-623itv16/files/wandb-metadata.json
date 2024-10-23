@@ -1,0 +1,38 @@
+{
+  "os": "Windows-10-10.0.19041-SP0",
+  "python": "3.7.0",
+  "startedAt": "2024-10-14T02:34:19.041880Z",
+  "program": "C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\imports\\wassertein_gan_gp.py",
+  "codePath": "wassertein_gan_gp.py",
+  "root": "C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\imports",
+  "host": "LAPTOP-CFIMP2EB",
+  "username": "ASUS",
+  "executable": "D:\\anacoda\\envs\\ember\\python.exe",
+  "codePathLocal": "wassertein_gan_gp.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "[NVIDIA GeForce RTX 2060]",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "290028093440",
+      "used": "261823852544"
+    }
+  },
+  "memory": {
+    "total": "16953597952"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 2060",
+      "memoryTotal": "6442450944",
+      "cudaCores": 1920,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.5"
+}

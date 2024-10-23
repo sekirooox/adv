@@ -1,0 +1,16 @@
+{"time":"2024-10-14T18:32:17.0818084+08:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-14T18:32:17.0818084+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\imports\\wandb\\offline-run-20241014_183216-edrs6c3d\\logs\\debug-core.log"}
+{"time":"2024-10-14T18:32:17.0963799+08:00","level":"INFO","msg":"created new stream","id":"edrs6c3d"}
+{"time":"2024-10-14T18:32:17.0963799+08:00","level":"INFO","msg":"stream: started","id":"edrs6c3d"}
+{"time":"2024-10-14T18:32:17.0969997+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"edrs6c3d"}}
+{"time":"2024-10-14T18:32:17.0969997+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"edrs6c3d"}}
+{"time":"2024-10-14T18:32:17.0969997+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"edrs6c3d"}}
+{"time":"2024-10-14T18:32:17.1097153+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-14T18:32:17.1107413+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-14T18:32:18.5125893+08:00","level":"INFO","msg":"stream: closing","id":"edrs6c3d"}
+{"time":"2024-10-14T18:32:18.5125893+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-14T18:32:18.5178956+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-14T18:32:18.5178956+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"edrs6c3d"}}
+{"time":"2024-10-14T18:32:18.5178956+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"edrs6c3d"}}
+{"time":"2024-10-14T18:32:18.5178956+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"edrs6c3d"}}
+{"time":"2024-10-14T18:32:18.5178956+08:00","level":"INFO","msg":"stream: closed","id":"edrs6c3d"}

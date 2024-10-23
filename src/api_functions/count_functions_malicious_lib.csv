@@ -1,0 +1,14 @@
+key,value
+kernel32.dll,10200
+msvcrt.dll,4830
+user32.dll,2520
+advapi32.dll,1440
+wininet.dll,840
+ole32.dll,360
+gdi32.dll,330
+shell32.dll,330
+msvcp60.dll,120
+comdlg32.dll,120
+comctl32.dll,30
+shlwapi.dll,30
+winhttp.dll,30

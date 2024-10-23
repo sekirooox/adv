@@ -1,0 +1,1 @@
+{"kernel32.dll": ["GetStdHandle", "GetModuleFileNameW", "GetModuleHandleA", "LoadLibraryA", "LocalAlloc", "LocalFree", "GetModuleFileNameA", "ExitProcess"], "user32.dll": ["wsprintfA"], "shell32.dll": ["SHGetFolderPathA"], "advapi32.dll": ["SystemFunction036"]}

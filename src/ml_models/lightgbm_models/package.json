@@ -1,0 +1,8 @@
+{
+  "objective": "binary",
+  "metric": "binary_logloss",
+  "learning_rate": 1e-3,
+  "verbosity": 1,
+  "random_state": 42
+}
+

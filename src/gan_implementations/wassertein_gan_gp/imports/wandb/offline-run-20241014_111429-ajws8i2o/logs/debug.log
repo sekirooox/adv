@@ -1,0 +1,27 @@
+2024-10-14 11:14:29,138 INFO    MainThread:16708 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-14 11:14:29,138 INFO    MainThread:16708 [wandb_setup.py:_flush():79] Configure stats pid to 16708
+2024-10-14 11:14:29,139 INFO    MainThread:16708 [wandb_setup.py:_flush():79] Loading settings from C:\Users\ASUS\.config\wandb\settings
+2024-10-14 11:14:29,139 INFO    MainThread:16708 [wandb_setup.py:_flush():79] Loading settings from C:\Users\ASUS\PycharmProjects\pythonProject\adv_mlw_examples_generation_with_gans-main\src\gan_implementations\wassertein_gan_gp\imports\wandb\settings
+2024-10-14 11:14:29,139 INFO    MainThread:16708 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'api_key': '***REDACTED***', 'mode': 'offline'}
+2024-10-14 11:14:29,139 INFO    MainThread:16708 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'wassertein_gan_gp.py', 'program_abspath': 'C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\imports\\wassertein_gan_gp.py', 'program': 'C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\imports\\wassertein_gan_gp.py'}
+2024-10-14 11:14:29,139 INFO    MainThread:16708 [wandb_setup.py:_flush():79] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-14 11:14:29,139 INFO    MainThread:16708 [wandb_init.py:_log_setup():532] Logging user logs to C:\Users\ASUS\PycharmProjects\pythonProject\adv_mlw_examples_generation_with_gans-main\src\gan_implementations\wassertein_gan_gp\imports\wandb\offline-run-20241014_111429-ajws8i2o\logs\debug.log
+2024-10-14 11:14:29,140 INFO    MainThread:16708 [wandb_init.py:_log_setup():533] Logging internal logs to C:\Users\ASUS\PycharmProjects\pythonProject\adv_mlw_examples_generation_with_gans-main\src\gan_implementations\wassertein_gan_gp\imports\wandb\offline-run-20241014_111429-ajws8i2o\logs\debug-internal.log
+2024-10-14 11:14:29,140 INFO    MainThread:16708 [wandb_init.py:init():617] calling init triggers
+2024-10-14 11:14:29,140 INFO    MainThread:16708 [wandb_init.py:init():625] wandb.init called with sweep_config: {}
+config: {'learning_rate': {'discriminator': 0.0001, 'generator': 0.0001}, 'beta1': 0.0, 'beta2': 0.999, 'epochs': 20, 'batch_size': 32, 'label_smoothing': 1.0}
+2024-10-14 11:14:29,140 INFO    MainThread:16708 [wandb_init.py:init():667] starting backend
+2024-10-14 11:14:29,140 INFO    MainThread:16708 [wandb_init.py:init():671] sending inform_init request
+2024-10-14 11:14:29,155 INFO    MainThread:16708 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=spawn, using: spawn
+2024-10-14 11:14:29,156 INFO    MainThread:16708 [wandb_init.py:init():684] backend started and connected
+2024-10-14 11:14:29,173 INFO    MainThread:16708 [wandb_init.py:init():779] updated telemetry
+2024-10-14 11:14:29,177 INFO    MainThread:16708 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-14 11:14:29,327 INFO    MainThread:16708 [wandb_init.py:init():863] starting run threads in backend
+2024-10-14 11:14:29,757 INFO    MainThread:16708 [wandb_run.py:_console_start():2465] atexit reg
+2024-10-14 11:14:29,758 INFO    MainThread:16708 [wandb_run.py:_redirect():2313] redirect: wrap_raw
+2024-10-14 11:14:29,758 INFO    MainThread:16708 [wandb_run.py:_redirect():2378] Wrapping output streams.
+2024-10-14 11:14:29,758 INFO    MainThread:16708 [wandb_run.py:_redirect():2403] Redirects installed.
+2024-10-14 11:14:29,797 INFO    MainThread:16708 [wandb_init.py:init():907] run started, returning control to user process
+2024-10-14 11:14:29,800 INFO    MainThread:16708 [wandb_watch.py:watch():67] Watching
+2024-10-14 11:14:29,801 INFO    MainThread:16708 [wandb_watch.py:watch():67] Watching
+2024-10-14 11:14:31,130 WARNING MsgRouterThr:16708 [router.py:message_loop():77] message_loop has been closed

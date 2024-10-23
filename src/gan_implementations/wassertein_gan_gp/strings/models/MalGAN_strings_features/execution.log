@@ -1,0 +1,190 @@
+2024-10-15 14:52:06,912 - INFO - GAN Logger created.
+2024-10-15 14:52:06,912 - INFO - Creating directory structure to save the checkpoints and plots
+2024-10-15 14:52:06,913 - INFO - [WinError 183] 当文件已存在时，无法创建该文件。: 'models/MalGAN_strings_features\\generator'
+2024-10-15 14:52:06,913 - INFO - Device: cuda:0
+2024-10-15 14:52:06,913 - INFO - Tensor type: <class 'torch.tensortype'>
+2024-10-15 14:52:07,596 - INFO - 
+Epoch: 0
+2024-10-15 14:52:12,225 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:12,225 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:12,225 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:12,225 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:12,225 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:12,226 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:12,226 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:12,226 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:12,226 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:12,226 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:12,226 - INFO - Fake average number of strings: 8577.533333333333
+
+2024-10-15 14:52:12,519 - INFO - 
+Epoch: 1
+2024-10-15 14:52:14,417 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:14,417 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:14,417 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:14,417 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:14,417 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:14,417 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:14,417 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:14,417 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:14,418 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:14,418 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:14,418 - INFO - Fake average number of strings: 8229.466666666667
+
+2024-10-15 14:52:14,661 - INFO - 
+Epoch: 2
+2024-10-15 14:52:16,811 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:16,811 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:16,811 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:16,811 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:16,811 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:16,811 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:16,811 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:16,811 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:16,811 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:16,812 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:16,812 - INFO - Fake average number of strings: 7746.066666666667
+
+2024-10-15 14:52:17,024 - INFO - 
+Epoch: 3
+2024-10-15 14:52:19,023 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:19,024 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:19,024 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:19,024 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:19,024 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:19,024 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:19,024 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:19,024 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:19,024 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:19,024 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:19,024 - INFO - Fake average number of strings: 7143.4
+
+2024-10-15 14:52:19,277 - INFO - 
+Epoch: 4
+2024-10-15 14:52:21,861 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:21,861 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:21,861 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:21,861 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:21,861 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:21,861 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:21,861 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:21,861 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:21,861 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:21,861 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:21,861 - INFO - Fake average number of strings: 6459.333333333333
+
+2024-10-15 14:52:22,155 - INFO - 
+Epoch: 5
+2024-10-15 14:52:24,186 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:24,186 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:24,186 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:24,186 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:24,186 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:24,186 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:24,186 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:24,186 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:24,186 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:24,186 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:24,186 - INFO - Fake average number of strings: 5716.866666666667
+
+2024-10-15 14:52:24,504 - INFO - 
+Epoch: 6
+2024-10-15 14:52:26,263 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:26,263 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:26,263 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:26,263 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:26,263 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:26,264 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:26,264 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:26,264 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:26,264 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:26,264 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:26,264 - INFO - Fake average number of strings: 5038.333333333333
+
+2024-10-15 14:52:26,492 - INFO - 
+Epoch: 7
+2024-10-15 14:52:28,429 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:28,429 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:28,429 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:28,429 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:28,429 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:28,429 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:28,429 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:28,429 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:28,429 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:28,429 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:28,429 - INFO - Fake average number of strings: 4427.833333333333
+
+2024-10-15 14:52:28,653 - INFO - 
+Epoch: 8
+2024-10-15 14:52:30,243 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:30,243 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:30,243 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:30,243 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:30,243 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:30,243 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:30,243 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:30,243 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:30,244 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:30,244 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:30,244 - INFO - Fake average number of strings: 3814.633333333333
+
+2024-10-15 14:52:45,757 - INFO - 
+Epoch: 9
+2024-10-15 14:52:47,605 - INFO - 
+
+Evaluation results:
+2024-10-15 14:52:47,605 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:47,605 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:47,605 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:47,605 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:47,606 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:47,606 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:47,606 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:47,606 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:52:47,606 - INFO - Original average number of strings: 1439.1333333333334
+
+2024-10-15 14:52:47,606 - INFO - Fake average number of strings: 3328.366666666667
+
+2024-10-15 14:53:07,951 - INFO - 
+
+Evaluation results:
+2024-10-15 14:53:07,951 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:53:07,951 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:53:07,951 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:53:07,951 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:53:07,951 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:53:07,951 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:53:07,951 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:53:07,951 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-15 14:53:07,951 - INFO - Original average number of strings: 1781.3666666666666
+
+2024-10-15 14:53:07,951 - INFO - Fake average number of strings: 3616.5333333333333
+

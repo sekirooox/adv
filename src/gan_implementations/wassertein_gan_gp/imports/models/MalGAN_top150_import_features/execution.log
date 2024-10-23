@@ -1,0 +1,659 @@
+2024-10-17 16:45:47,407 - INFO - GAN Logger created.
+2024-10-17 16:45:47,407 - INFO - Creating directory structure to save the checkpoints and plots
+2024-10-17 16:45:47,411 - INFO - Directory structure created.
+ models/MalGAN_top150_import_features/generator
+models/MalGAN_top150_import_features/discriminator
+models/MalGAN_top150_import_features/plots
+models/MalGAN_top150_import_features/validation_results
+models/MalGAN_top150_import_features/testing_results
+
+2024-10-17 16:45:47,411 - INFO - Device: cuda:0
+2024-10-17 16:45:47,411 - INFO - Tensor type: <class 'torch.tensortype'>
+2024-10-17 16:45:47,750 - INFO - 
+Epoch: 0
+2024-10-17 16:45:52,924 - INFO - 
+
+Evaluation results:
+2024-10-17 16:45:52,924 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,924 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,924 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,924 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,924 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,924 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,925 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,925 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,925 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,925 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:52,925 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:45:52,925 - INFO - Fake average imported functions: 252.96666666666667
+
+2024-10-17 16:45:52,925 - INFO - Average number of collisions 114.1311111111111
+
+2024-10-17 16:45:52,925 - INFO - Frechlet Inception Distance: 40540.034769432124
+2024-10-17 16:45:52,925 - INFO - euclidean distance between original and fake samples: 73.33484846919642
+2024-10-17 16:45:52,925 - INFO - minkowski distance between original and fake samples: 73.33484846919642
+2024-10-17 16:45:52,925 - INFO - hamming distance between original and fake samples: 179.26666666666668
+2024-10-17 16:45:52,938 - INFO - 
+Epoch: 1
+2024-10-17 16:45:54,241 - INFO - 
+
+Evaluation results:
+2024-10-17 16:45:54,241 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,241 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,241 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,242 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,242 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,242 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,242 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,242 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,242 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,242 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:54,242 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:45:54,242 - INFO - Fake average imported functions: 250.73333333333332
+
+2024-10-17 16:45:54,242 - INFO - Average number of collisions 114.36444444444443
+
+2024-10-17 16:45:54,242 - INFO - Frechlet Inception Distance: 40428.55064122329
+2024-10-17 16:45:54,242 - INFO - euclidean distance between original and fake samples: 72.8766080440082
+2024-10-17 16:45:54,242 - INFO - minkowski distance between original and fake samples: 72.8766080440082
+2024-10-17 16:45:54,242 - INFO - hamming distance between original and fake samples: 177.03333333333333
+2024-10-17 16:45:54,254 - INFO - 
+Epoch: 2
+2024-10-17 16:45:55,573 - INFO - 
+
+Evaluation results:
+2024-10-17 16:45:55,573 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,573 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,573 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,573 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,574 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,574 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,574 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,574 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,574 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,574 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:55,574 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:45:55,574 - INFO - Fake average imported functions: 244.06666666666666
+
+2024-10-17 16:45:55,574 - INFO - Average number of collisions 116.1333333333333
+
+2024-10-17 16:45:55,574 - INFO - Frechlet Inception Distance: 37519.744341884354
+2024-10-17 16:45:55,574 - INFO - euclidean distance between original and fake samples: 71.49125820686051
+2024-10-17 16:45:55,574 - INFO - minkowski distance between original and fake samples: 71.49125820686051
+2024-10-17 16:45:55,574 - INFO - hamming distance between original and fake samples: 170.36666666666667
+2024-10-17 16:45:55,592 - INFO - 
+Epoch: 3
+2024-10-17 16:45:56,910 - INFO - 
+
+Evaluation results:
+2024-10-17 16:45:56,911 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:56,911 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:45:56,911 - INFO - Fake average imported functions: 236.83333333333334
+
+2024-10-17 16:45:56,911 - INFO - Average number of collisions 118.11333333333332
+
+2024-10-17 16:45:56,911 - INFO - Frechlet Inception Distance: 36822.994970331245
+2024-10-17 16:45:56,912 - INFO - euclidean distance between original and fake samples: 69.95712972957081
+2024-10-17 16:45:56,912 - INFO - minkowski distance between original and fake samples: 69.95712972957081
+2024-10-17 16:45:56,912 - INFO - hamming distance between original and fake samples: 163.13333333333333
+2024-10-17 16:45:56,928 - INFO - 
+Epoch: 4
+2024-10-17 16:45:58,253 - INFO - 
+
+Evaluation results:
+2024-10-17 16:45:58,253 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,253 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,253 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,253 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,253 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,254 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,254 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,254 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,254 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,254 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:58,254 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:45:58,254 - INFO - Fake average imported functions: 224.4
+
+2024-10-17 16:45:58,254 - INFO - Average number of collisions 121.80444444444444
+
+2024-10-17 16:45:58,254 - INFO - Frechlet Inception Distance: 33233.51801156155
+2024-10-17 16:45:58,254 - INFO - euclidean distance between original and fake samples: 67.23838189605696
+2024-10-17 16:45:58,254 - INFO - minkowski distance between original and fake samples: 67.23838189605696
+2024-10-17 16:45:58,254 - INFO - hamming distance between original and fake samples: 150.7
+2024-10-17 16:45:58,270 - INFO - 
+Epoch: 5
+2024-10-17 16:45:59,567 - INFO - 
+
+Evaluation results:
+2024-10-17 16:45:59,567 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:45:59,567 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:45:59,567 - INFO - Fake average imported functions: 209.0
+
+2024-10-17 16:45:59,568 - INFO - Average number of collisions 122.93333333333332
+
+2024-10-17 16:45:59,568 - INFO - Frechlet Inception Distance: 29634.45870453211
+2024-10-17 16:45:59,568 - INFO - euclidean distance between original and fake samples: 63.7102817447859
+2024-10-17 16:45:59,568 - INFO - minkowski distance between original and fake samples: 63.7102817447859
+2024-10-17 16:45:59,568 - INFO - hamming distance between original and fake samples: 135.3
+2024-10-17 16:45:59,587 - INFO - 
+Epoch: 6
+2024-10-17 16:46:00,912 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:00,912 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,912 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,912 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,912 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,912 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,912 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,912 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,912 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,913 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,913 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:00,913 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:00,913 - INFO - Fake average imported functions: 193.66666666666666
+
+2024-10-17 16:46:00,913 - INFO - Average number of collisions 124.88444444444444
+
+2024-10-17 16:46:00,913 - INFO - Frechlet Inception Distance: 25848.304264325423
+2024-10-17 16:46:00,913 - INFO - euclidean distance between original and fake samples: 59.99166608788257
+2024-10-17 16:46:00,913 - INFO - minkowski distance between original and fake samples: 59.99166608788257
+2024-10-17 16:46:00,913 - INFO - hamming distance between original and fake samples: 119.96666666666667
+2024-10-17 16:46:00,928 - INFO - 
+Epoch: 7
+2024-10-17 16:46:02,252 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:02,252 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:02,252 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:02,252 - INFO - Fake average imported functions: 177.93333333333334
+
+2024-10-17 16:46:02,252 - INFO - Average number of collisions 124.28444444444446
+
+2024-10-17 16:46:02,253 - INFO - Frechlet Inception Distance: 23245.60219257456
+2024-10-17 16:46:02,253 - INFO - euclidean distance between original and fake samples: 55.91958512006326
+2024-10-17 16:46:02,253 - INFO - minkowski distance between original and fake samples: 55.91958512006326
+2024-10-17 16:46:02,253 - INFO - hamming distance between original and fake samples: 104.23333333333333
+2024-10-17 16:46:02,272 - INFO - 
+Epoch: 8
+2024-10-17 16:46:03,646 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:03,646 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,646 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,646 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,646 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,646 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,647 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,647 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,647 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,647 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,647 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:03,647 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:03,647 - INFO - Fake average imported functions: 164.76666666666668
+
+2024-10-17 16:46:03,647 - INFO - Average number of collisions 123.74444444444445
+
+2024-10-17 16:46:03,647 - INFO - Frechlet Inception Distance: 21037.80998447618
+2024-10-17 16:46:03,647 - INFO - euclidean distance between original and fake samples: 52.26853738148792
+2024-10-17 16:46:03,647 - INFO - minkowski distance between original and fake samples: 52.26853738148792
+2024-10-17 16:46:03,647 - INFO - hamming distance between original and fake samples: 91.06666666666666
+2024-10-17 16:46:03,662 - INFO - 
+Epoch: 9
+2024-10-17 16:46:04,998 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:04,998 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,998 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,998 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,998 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,998 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,998 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,999 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,999 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,999 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,999 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:04,999 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:04,999 - INFO - Fake average imported functions: 150.63333333333333
+
+2024-10-17 16:46:04,999 - INFO - Average number of collisions 122.43333333333334
+
+2024-10-17 16:46:04,999 - INFO - Frechlet Inception Distance: 19048.437994841137
+2024-10-17 16:46:04,999 - INFO - euclidean distance between original and fake samples: 48.041648597857254
+2024-10-17 16:46:04,999 - INFO - minkowski distance between original and fake samples: 48.041648597857254
+2024-10-17 16:46:04,999 - INFO - hamming distance between original and fake samples: 76.93333333333334
+2024-10-17 16:46:05,015 - INFO - 
+Epoch: 10
+2024-10-17 16:46:06,346 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:06,346 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,346 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,346 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,346 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,346 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,346 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,346 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,346 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,347 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,347 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:06,347 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:06,347 - INFO - Fake average imported functions: 139.96666666666667
+
+2024-10-17 16:46:06,347 - INFO - Average number of collisions 121.25555555555555
+
+2024-10-17 16:46:06,347 - INFO - Frechlet Inception Distance: 17773.197480858886
+2024-10-17 16:46:06,347 - INFO - euclidean distance between original and fake samples: 44.58699361921591
+2024-10-17 16:46:06,347 - INFO - minkowski distance between original and fake samples: 44.58699361921591
+2024-10-17 16:46:06,347 - INFO - hamming distance between original and fake samples: 66.26666666666667
+2024-10-17 16:46:06,362 - INFO - 
+Epoch: 11
+2024-10-17 16:46:07,686 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:07,686 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:07,687 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:07,687 - INFO - Fake average imported functions: 128.3
+
+2024-10-17 16:46:07,687 - INFO - Average number of collisions 119.05555555555556
+
+2024-10-17 16:46:07,687 - INFO - Frechlet Inception Distance: 15863.768189178469
+2024-10-17 16:46:07,687 - INFO - euclidean distance between original and fake samples: 40.47221268969612
+2024-10-17 16:46:07,687 - INFO - minkowski distance between original and fake samples: 40.47221268969612
+2024-10-17 16:46:07,687 - INFO - hamming distance between original and fake samples: 54.6
+2024-10-17 16:46:07,704 - INFO - 
+Epoch: 12
+2024-10-17 16:46:08,968 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:08,968 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:08,968 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:08,968 - INFO - Fake average imported functions: 118.76666666666667
+
+2024-10-17 16:46:08,968 - INFO - Average number of collisions 118.38444444444445
+
+2024-10-17 16:46:08,968 - INFO - Frechlet Inception Distance: 14078.306122640211
+2024-10-17 16:46:08,968 - INFO - euclidean distance between original and fake samples: 36.76955262170047
+2024-10-17 16:46:08,969 - INFO - minkowski distance between original and fake samples: 36.76955262170047
+2024-10-17 16:46:08,969 - INFO - hamming distance between original and fake samples: 45.06666666666667
+2024-10-17 16:46:08,983 - INFO - 
+Epoch: 13
+2024-10-17 16:46:10,246 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:10,246 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,246 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,246 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,246 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,246 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,246 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,246 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,246 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,246 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,247 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:10,247 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:10,247 - INFO - Fake average imported functions: 112.7
+
+2024-10-17 16:46:10,247 - INFO - Average number of collisions 116.73555555555556
+
+2024-10-17 16:46:10,247 - INFO - Frechlet Inception Distance: 14016.233309600797
+2024-10-17 16:46:10,247 - INFO - euclidean distance between original and fake samples: 34.20526275297414
+2024-10-17 16:46:10,247 - INFO - minkowski distance between original and fake samples: 34.20526275297414
+2024-10-17 16:46:10,247 - INFO - hamming distance between original and fake samples: 39.0
+2024-10-17 16:46:10,263 - INFO - 
+Epoch: 14
+2024-10-17 16:46:11,508 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:11,508 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,508 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,508 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,508 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,508 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,508 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,508 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,508 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,508 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,508 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:11,509 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:11,509 - INFO - Fake average imported functions: 104.8
+
+2024-10-17 16:46:11,509 - INFO - Average number of collisions 114.69333333333333
+
+2024-10-17 16:46:11,509 - INFO - Frechlet Inception Distance: 12899.66237456066
+2024-10-17 16:46:11,509 - INFO - euclidean distance between original and fake samples: 30.54504869860253
+2024-10-17 16:46:11,509 - INFO - minkowski distance between original and fake samples: 30.54504869860253
+2024-10-17 16:46:11,509 - INFO - hamming distance between original and fake samples: 31.1
+2024-10-17 16:46:11,525 - INFO - 
+Epoch: 15
+2024-10-17 16:46:12,782 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:12,783 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:12,783 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:12,783 - INFO - Fake average imported functions: 98.46666666666667
+
+2024-10-17 16:46:12,783 - INFO - Average number of collisions 112.83111111111111
+
+2024-10-17 16:46:12,783 - INFO - Frechlet Inception Distance: 11616.326549474705
+2024-10-17 16:46:12,783 - INFO - euclidean distance between original and fake samples: 27.258026340878022
+2024-10-17 16:46:12,783 - INFO - minkowski distance between original and fake samples: 27.258026340878022
+2024-10-17 16:46:12,783 - INFO - hamming distance between original and fake samples: 24.766666666666666
+2024-10-17 16:46:12,797 - INFO - 
+Epoch: 16
+2024-10-17 16:46:14,051 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:14,051 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,051 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,051 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,051 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,051 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,052 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,052 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,052 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,052 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,052 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:14,052 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:14,052 - INFO - Fake average imported functions: 93.93333333333334
+
+2024-10-17 16:46:14,052 - INFO - Average number of collisions 111.91111111111111
+
+2024-10-17 16:46:14,052 - INFO - Frechlet Inception Distance: 11589.829454717765
+2024-10-17 16:46:14,052 - INFO - euclidean distance between original and fake samples: 24.63736998950984
+2024-10-17 16:46:14,052 - INFO - minkowski distance between original and fake samples: 24.63736998950984
+2024-10-17 16:46:14,052 - INFO - hamming distance between original and fake samples: 20.233333333333334
+2024-10-17 16:46:14,068 - INFO - 
+Epoch: 17
+2024-10-17 16:46:15,319 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:15,320 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:15,320 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:15,320 - INFO - Fake average imported functions: 88.33333333333333
+
+2024-10-17 16:46:15,320 - INFO - Average number of collisions 110.07555555555558
+
+2024-10-17 16:46:15,320 - INFO - Frechlet Inception Distance: 10233.236021313682
+2024-10-17 16:46:15,320 - INFO - euclidean distance between original and fake samples: 20.952326839756964
+2024-10-17 16:46:15,320 - INFO - minkowski distance between original and fake samples: 20.952326839756964
+2024-10-17 16:46:15,321 - INFO - hamming distance between original and fake samples: 14.633333333333333
+2024-10-17 16:46:15,336 - INFO - 
+Epoch: 18
+2024-10-17 16:46:16,623 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:16,623 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,623 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,623 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,623 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,623 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,623 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,623 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,623 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,624 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,624 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:16,624 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:16,624 - INFO - Fake average imported functions: 85.86666666666666
+
+2024-10-17 16:46:16,624 - INFO - Average number of collisions 109.76888888888892
+
+2024-10-17 16:46:16,624 - INFO - Frechlet Inception Distance: 9869.4839335121
+2024-10-17 16:46:16,624 - INFO - euclidean distance between original and fake samples: 19.1049731745428
+2024-10-17 16:46:16,624 - INFO - minkowski distance between original and fake samples: 19.1049731745428
+2024-10-17 16:46:16,624 - INFO - hamming distance between original and fake samples: 12.166666666666666
+2024-10-17 16:46:16,639 - INFO - 
+Epoch: 19
+2024-10-17 16:46:17,951 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:17,951 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:17,951 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:17,951 - INFO - Fake average imported functions: 82.53333333333333
+
+2024-10-17 16:46:17,951 - INFO - Average number of collisions 109.29333333333332
+
+2024-10-17 16:46:17,952 - INFO - Frechlet Inception Distance: 9076.401510587912
+2024-10-17 16:46:17,952 - INFO - euclidean distance between original and fake samples: 16.278820596099706
+2024-10-17 16:46:17,952 - INFO - minkowski distance between original and fake samples: 16.278820596099706
+2024-10-17 16:46:17,952 - INFO - hamming distance between original and fake samples: 8.833333333333334
+2024-10-17 16:46:17,967 - INFO - 
+Epoch: 20
+2024-10-17 16:46:19,266 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:19,266 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,266 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,266 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,266 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,266 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,266 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,267 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,267 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,267 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,267 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:19,267 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:19,267 - INFO - Fake average imported functions: 79.13333333333334
+
+2024-10-17 16:46:19,267 - INFO - Average number of collisions 108.15555555555557
+
+2024-10-17 16:46:19,267 - INFO - Frechlet Inception Distance: 8517.99824879978
+2024-10-17 16:46:19,267 - INFO - euclidean distance between original and fake samples: 12.767145334803704
+2024-10-17 16:46:19,267 - INFO - minkowski distance between original and fake samples: 12.767145334803704
+2024-10-17 16:46:19,267 - INFO - hamming distance between original and fake samples: 5.433333333333334
+2024-10-17 16:46:19,281 - INFO - 
+Epoch: 21
+2024-10-17 16:46:20,577 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:20,577 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:20,578 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:20,578 - INFO - Fake average imported functions: 77.26666666666667
+
+2024-10-17 16:46:20,578 - INFO - Average number of collisions 106.96
+
+2024-10-17 16:46:20,578 - INFO - Frechlet Inception Distance: 8254.32938659493
+2024-10-17 16:46:20,578 - INFO - euclidean distance between original and fake samples: 10.344080432788601
+2024-10-17 16:46:20,578 - INFO - minkowski distance between original and fake samples: 10.344080432788601
+2024-10-17 16:46:20,578 - INFO - hamming distance between original and fake samples: 3.566666666666667
+2024-10-17 16:46:20,593 - INFO - 
+Epoch: 22
+2024-10-17 16:46:21,902 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:21,902 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:21,902 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:21,902 - INFO - Fake average imported functions: 76.3
+
+2024-10-17 16:46:21,903 - INFO - Average number of collisions 106.1088888888889
+
+2024-10-17 16:46:21,903 - INFO - Frechlet Inception Distance: 8056.006512757458
+2024-10-17 16:46:21,903 - INFO - euclidean distance between original and fake samples: 8.831760866327848
+2024-10-17 16:46:21,903 - INFO - minkowski distance between original and fake samples: 8.831760866327848
+2024-10-17 16:46:21,903 - INFO - hamming distance between original and fake samples: 2.6
+2024-10-17 16:46:21,918 - INFO - 
+Epoch: 23
+2024-10-17 16:46:23,263 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:23,263 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,263 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,263 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,263 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,263 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,263 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,263 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,263 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,263 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,264 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:23,264 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:23,264 - INFO - Fake average imported functions: 75.26666666666667
+
+2024-10-17 16:46:23,264 - INFO - Average number of collisions 105.75555555555555
+
+2024-10-17 16:46:23,264 - INFO - Frechlet Inception Distance: 7776.298252834949
+2024-10-17 16:46:23,264 - INFO - euclidean distance between original and fake samples: 6.855654600401044
+2024-10-17 16:46:23,264 - INFO - minkowski distance between original and fake samples: 6.855654600401044
+2024-10-17 16:46:23,264 - INFO - hamming distance between original and fake samples: 1.5666666666666667
+2024-10-17 16:46:23,280 - INFO - 
+Epoch: 24
+2024-10-17 16:46:24,534 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:24,535 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:24,535 - INFO - Original average imported functions: 73.7
+
+2024-10-17 16:46:24,535 - INFO - Fake average imported functions: 74.8
+
+2024-10-17 16:46:24,535 - INFO - Average number of collisions 105.77777777777779
+
+2024-10-17 16:46:24,535 - INFO - Frechlet Inception Distance: 7639.790083464659
+2024-10-17 16:46:24,535 - INFO - euclidean distance between original and fake samples: 5.744562646538029
+2024-10-17 16:46:24,535 - INFO - minkowski distance between original and fake samples: 5.744562646538029
+2024-10-17 16:46:24,535 - INFO - hamming distance between original and fake samples: 1.1
+2024-10-17 16:46:26,727 - INFO - 
+
+Evaluation results:
+2024-10-17 16:46:26,727 - INFO - Model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - Model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - Hashed model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - Hashed model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+2024-10-17 16:46:26,727 - INFO - Original average imported functions: 74.53333333333333
+
+2024-10-17 16:46:26,727 - INFO - Fake average imported functions: 75.5
+
+2024-10-17 16:46:26,727 - INFO - Average number of collisions 107.14000000000001
+
+2024-10-17 16:46:26,728 - INFO - Frechlet Inception Distance: 6859.141980174227
+2024-10-17 16:46:26,728 - INFO - euclidean distance between original and fake samples: 5.385164807134504
+2024-10-17 16:46:26,728 - INFO - minkowski distance between original and fake samples: 5.385164807134504
+2024-10-17 16:46:26,728 - INFO - hamming distance between original and fake samples: 0.9666666666666667

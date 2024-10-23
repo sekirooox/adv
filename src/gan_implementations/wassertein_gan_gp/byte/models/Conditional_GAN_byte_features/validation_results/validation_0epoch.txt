@@ -1,0 +1,17 @@
+Results
+
+Byte histogram model 2017; Originally detected: 0/30; Fake detected: 0/30
+Byte histogram model 2018; Originally detected: 0/30; Fake detected: 0/30
+EMBER model 2017; Originally detected: 0/30; Fake detected: 0/30
+EMBER model 2018; Originally detected: 0/30; Fake detected: 0/30
+SOREL-20M LightGBM model; Originally detected: 0/30; Fake detected: 0/30
+SOREL-20M FFNN model; Originally detected: 0/30; Fake detected: 0/30
+MalConv model; Originally detected: 0/30; Fake detected: 0/30
+
+Non-negative MalConv model; Originally detected: 0/30; Fake detected: 0/30
+
+MalConvGCT model; Originally detected: 0/30; Fake detected: 0/30
+
+FID score: 0.2470403461048974
+jensenshannon distance between original and fake samples: 0.31791403109823324
+jensenshannon distance between fake samples: 0.31791403109823324

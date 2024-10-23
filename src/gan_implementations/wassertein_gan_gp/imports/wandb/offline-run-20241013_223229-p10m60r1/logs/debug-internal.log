@@ -1,0 +1,18 @@
+{"time":"2024-10-13T22:32:29.6803473+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T22:32:29.6803473+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\imports\\wandb\\offline-run-20241013_223229-p10m60r1\\logs\\debug-core.log"}
+{"time":"2024-10-13T22:32:29.680897+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T22:32:29.680897+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\imports\\wandb\\offline-run-20241013_223229-p10m60r1\\logs\\debug-core.log"}
+{"time":"2024-10-13T22:32:29.6901787+08:00","level":"INFO","msg":"created new stream","id":"p10m60r1"}
+{"time":"2024-10-13T22:32:29.6901787+08:00","level":"INFO","msg":"stream: started","id":"p10m60r1"}
+{"time":"2024-10-13T22:32:29.6901787+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"p10m60r1"}}
+{"time":"2024-10-13T22:32:29.6901787+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"p10m60r1"}}
+{"time":"2024-10-13T22:32:29.6901787+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"p10m60r1"}}
+{"time":"2024-10-13T22:32:29.7040307+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T22:32:29.7079554+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T22:32:30.691446+08:00","level":"INFO","msg":"stream: closing","id":"p10m60r1"}
+{"time":"2024-10-13T22:32:30.691446+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T22:32:30.691446+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T22:32:30.691446+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"p10m60r1"}}
+{"time":"2024-10-13T22:32:30.691446+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"p10m60r1"}}
+{"time":"2024-10-13T22:32:30.691446+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"p10m60r1"}}
+{"time":"2024-10-13T22:32:30.6919558+08:00","level":"INFO","msg":"stream: closed","id":"p10m60r1"}

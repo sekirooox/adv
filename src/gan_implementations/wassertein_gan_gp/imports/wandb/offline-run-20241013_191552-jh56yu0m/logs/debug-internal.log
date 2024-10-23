@@ -1,0 +1,18 @@
+{"time":"2024-10-13T19:15:53.0133915+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T19:15:53.0133915+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\imports\\wandb\\offline-run-20241013_191552-jh56yu0m\\logs\\debug-core.log"}
+{"time":"2024-10-13T19:15:53.0144248+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-13T19:15:53.0144248+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\imports\\wandb\\offline-run-20241013_191552-jh56yu0m\\logs\\debug-core.log"}
+{"time":"2024-10-13T19:15:53.0237465+08:00","level":"INFO","msg":"created new stream","id":"jh56yu0m"}
+{"time":"2024-10-13T19:15:53.0237465+08:00","level":"INFO","msg":"stream: started","id":"jh56yu0m"}
+{"time":"2024-10-13T19:15:53.0237465+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"jh56yu0m"}}
+{"time":"2024-10-13T19:15:53.0237465+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jh56yu0m"}}
+{"time":"2024-10-13T19:15:53.0237465+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jh56yu0m"}}
+{"time":"2024-10-13T19:15:53.0379742+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-13T19:15:53.0392516+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-13T19:15:53.9160291+08:00","level":"INFO","msg":"stream: closing","id":"jh56yu0m"}
+{"time":"2024-10-13T19:15:53.9160291+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-13T19:15:53.9160291+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-13T19:15:53.9160291+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"jh56yu0m"}}
+{"time":"2024-10-13T19:15:53.9160291+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jh56yu0m"}}
+{"time":"2024-10-13T19:15:53.9160291+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"jh56yu0m"}}
+{"time":"2024-10-13T19:15:53.9165514+08:00","level":"INFO","msg":"stream: closed","id":"jh56yu0m"}

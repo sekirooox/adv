@@ -1,0 +1,18 @@
+{"time":"2024-10-02T10:32:46.2389679+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-02T10:32:46.2389679+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20241002_103246-4ge43wxx\\logs\\debug-core.log"}
+{"time":"2024-10-02T10:32:46.2395063+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-02T10:32:46.2395063+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20241002_103246-4ge43wxx\\logs\\debug-core.log"}
+{"time":"2024-10-02T10:32:46.24731+08:00","level":"INFO","msg":"created new stream","id":"4ge43wxx"}
+{"time":"2024-10-02T10:32:46.2478198+08:00","level":"INFO","msg":"stream: started","id":"4ge43wxx"}
+{"time":"2024-10-02T10:32:46.2478198+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"4ge43wxx"}}
+{"time":"2024-10-02T10:32:46.2478198+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"4ge43wxx"}}
+{"time":"2024-10-02T10:32:46.2478198+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"4ge43wxx"}}
+{"time":"2024-10-02T10:32:46.2605587+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-02T10:32:46.2619016+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-02T10:32:48.0049105+08:00","level":"INFO","msg":"stream: closing","id":"4ge43wxx"}
+{"time":"2024-10-02T10:32:48.0049105+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-02T10:32:48.0049105+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-02T10:32:48.0049105+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"4ge43wxx"}}
+{"time":"2024-10-02T10:32:48.0049105+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"4ge43wxx"}}
+{"time":"2024-10-02T10:32:48.0049105+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"4ge43wxx"}}
+{"time":"2024-10-02T10:32:48.0049105+08:00","level":"INFO","msg":"stream: closed","id":"4ge43wxx"}

@@ -1,0 +1,29 @@
+2024-10-01 15:25:18,379 INFO    MainThread:11128 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-10-01 15:25:18,379 INFO    MainThread:11128 [wandb_setup.py:_flush():77] Configure stats pid to 11128
+2024-10-01 15:25:18,379 INFO    MainThread:11128 [wandb_setup.py:_flush():77] Loading settings from C:\Users\ASUS\.config\wandb\settings
+2024-10-01 15:25:18,379 INFO    MainThread:11128 [wandb_setup.py:_flush():77] Loading settings from C:\Users\ASUS\PycharmProjects\pythonProject\adv_mlw_examples_generation_with_gans-main\src\gan_implementations\wassertein_gan_gp\byte\wandb\settings
+2024-10-01 15:25:18,379 INFO    MainThread:11128 [wandb_setup.py:_flush():77] Loading settings from environment variables: {'api_key': '***REDACTED***'}
+2024-10-01 15:25:18,379 INFO    MainThread:11128 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'wassertein_gan_gp.py', 'program_abspath': 'C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wassertein_gan_gp.py', 'program': 'C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wassertein_gan_gp.py'}
+2024-10-01 15:25:18,379 INFO    MainThread:11128 [wandb_setup.py:_flush():77] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-01 15:25:18,379 INFO    MainThread:11128 [wandb_setup.py:_flush():77] Applying login settings: {'api_key': '***REDACTED***'}
+2024-10-01 15:25:18,379 INFO    MainThread:11128 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-10-01 15:25:18,380 INFO    MainThread:11128 [wandb_init.py:_log_setup():532] Logging user logs to C:\Users\ASUS\PycharmProjects\pythonProject\adv_mlw_examples_generation_with_gans-main\src\gan_implementations\wassertein_gan_gp\byte\wandb\run-20241001_152518-52esqa00\logs\debug.log
+2024-10-01 15:25:18,380 INFO    MainThread:11128 [wandb_init.py:_log_setup():533] Logging internal logs to C:\Users\ASUS\PycharmProjects\pythonProject\adv_mlw_examples_generation_with_gans-main\src\gan_implementations\wassertein_gan_gp\byte\wandb\run-20241001_152518-52esqa00\logs\debug-internal.log
+2024-10-01 15:25:18,380 INFO    MainThread:11128 [wandb_init.py:init():616] calling init triggers
+2024-10-01 15:25:18,380 INFO    MainThread:11128 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {'learning_rate': {'discriminator': 2e-05, 'generator': 2e-05}, 'beta1': 0.0, 'beta2': 0.999, 'epochs': 25, 'batch_size': 32, 'label_smoothing': 1.0}
+2024-10-01 15:25:18,380 INFO    MainThread:11128 [wandb_init.py:init():666] starting backend
+2024-10-01 15:25:18,380 INFO    MainThread:11128 [wandb_init.py:init():670] setting up manager
+2024-10-01 15:25:18,389 INFO    MainThread:11128 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn, using: spawn
+2024-10-01 15:25:18,391 INFO    MainThread:11128 [wandb_init.py:init():678] backend started and connected
+2024-10-01 15:25:18,402 INFO    MainThread:11128 [wandb_init.py:init():773] updated telemetry
+2024-10-01 15:25:18,406 INFO    MainThread:11128 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-10-01 15:25:19,254 ERROR   MainThread:11128 [wandb_init.py:init():832] encountered error: failed to upsert bucket: returned error 404 Not Found: {"errors":[{"message":"project not found","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-10-01 15:25:19,254 ERROR   MainThread:11128 [wandb_init.py:init():1251] error in wandb.init()
+Traceback (most recent call last):
+  File "D:\anacoda\envs\mydl\lib\site-packages\wandb\sdk\wandb_init.py", line 1241, in init
+    return wi.init()
+  File "D:\anacoda\envs\mydl\lib\site-packages\wandb\sdk\wandb_init.py", line 838, in init
+    raise error
+wandb.errors.CommError: failed to upsert bucket: returned error 404 Not Found: {"errors":[{"message":"project not found","path":["upsertBucket"]}],"data":{"upsertBucket":null}}
+2024-10-01 15:25:21,269 WARNING MsgRouterThr:11128 [router.py:message_loop():77] message_loop has been closed

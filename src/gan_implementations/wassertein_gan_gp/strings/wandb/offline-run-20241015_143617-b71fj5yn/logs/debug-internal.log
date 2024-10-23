@@ -1,0 +1,16 @@
+{"time":"2024-10-15T14:36:17.4245537+08:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-15T14:36:17.4245537+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\strings\\wandb\\offline-run-20241015_143617-b71fj5yn\\logs\\debug-core.log"}
+{"time":"2024-10-15T14:36:17.4373775+08:00","level":"INFO","msg":"created new stream","id":"b71fj5yn"}
+{"time":"2024-10-15T14:36:17.4373775+08:00","level":"INFO","msg":"stream: started","id":"b71fj5yn"}
+{"time":"2024-10-15T14:36:17.4373775+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"b71fj5yn"}}
+{"time":"2024-10-15T14:36:17.4373775+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"b71fj5yn"}}
+{"time":"2024-10-15T14:36:17.4373775+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"b71fj5yn"}}
+{"time":"2024-10-15T14:36:17.4474399+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-15T14:36:17.4479519+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-15T14:36:21.6914955+08:00","level":"INFO","msg":"stream: closing","id":"b71fj5yn"}
+{"time":"2024-10-15T14:36:21.6914955+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-15T14:36:21.6972803+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-15T14:36:21.697792+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"b71fj5yn"}}
+{"time":"2024-10-15T14:36:21.697792+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"b71fj5yn"}}
+{"time":"2024-10-15T14:36:21.697792+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"b71fj5yn"}}
+{"time":"2024-10-15T14:36:21.697792+08:00","level":"INFO","msg":"stream: closed","id":"b71fj5yn"}

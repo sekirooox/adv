@@ -1,0 +1,18 @@
+{"time":"2024-10-01T15:54:01.9793416+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-01T15:54:01.9793416+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20241001_155401-z5rm9r80\\logs\\debug-core.log"}
+{"time":"2024-10-01T15:54:01.9798526+08:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-10-01T15:54:01.9798526+08:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\ASUS\\PycharmProjects\\pythonProject\\adv_mlw_examples_generation_with_gans-main\\src\\gan_implementations\\wassertein_gan_gp\\byte\\wandb\\offline-run-20241001_155401-z5rm9r80\\logs\\debug-core.log"}
+{"time":"2024-10-01T15:54:01.9887961+08:00","level":"INFO","msg":"created new stream","id":"z5rm9r80"}
+{"time":"2024-10-01T15:54:01.9887961+08:00","level":"INFO","msg":"stream: started","id":"z5rm9r80"}
+{"time":"2024-10-01T15:54:01.9887961+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"z5rm9r80"}}
+{"time":"2024-10-01T15:54:01.9887961+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"z5rm9r80"}}
+{"time":"2024-10-01T15:54:01.9887961+08:00","level":"INFO","msg":"sender: started","stream_id":{"value":"z5rm9r80"}}
+{"time":"2024-10-01T15:54:02.0031768+08:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-01T15:54:02.0045044+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-01T15:54:07.275139+08:00","level":"INFO","msg":"stream: closing","id":"z5rm9r80"}
+{"time":"2024-10-01T15:54:07.275139+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-01T15:54:07.275139+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-01T15:54:07.2762603+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"z5rm9r80"}}
+{"time":"2024-10-01T15:54:07.2762603+08:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"z5rm9r80"}}
+{"time":"2024-10-01T15:54:07.2762603+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"z5rm9r80"}}
+{"time":"2024-10-01T15:54:07.2762603+08:00","level":"INFO","msg":"stream: closed","id":"z5rm9r80"}

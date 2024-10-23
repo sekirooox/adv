@@ -1,0 +1,433 @@
+!This program cannot be run in DOS mode.
+{URich
+.text
+`.rdata
+@.data
+@.rsrc
+8RuCP
+f90u2h
+txIt/
+utSVh
+Ph43A
+t"SSS
+u h\3A
+t4SSVW
+t!hh3A
+zuFhl3A
+Xu,j:
+<$tA<
+Pht3A
+t<SVW
+;\u0VW
+^[u'W
+<3\u1WV
+P9]pu;
+P9]pu+
+Ep_^[
+w5SSSS
+_CFFf
+t<SSSS
+VSSSSh
+ tSj X
+tHHt3
+@WhP6A
+<*t*<?t
+t0ht6A
+Vhx6A
+V@@AAf
+IWj\_f9>u?f9~
+t$WPV
+(<\u$8F
+>\u(f
+\u!j\
+t8< r
+j Y+L$
+j Y+M
+HtFHt8Ht*Ht
+F$u'8
+NNu$j
+Ph47A
+(SVWj 
+t!VVV
+j"Zf;
+@@AAf
+(SVW3
+`SVWjh
+jtMHt
+HtCHt<Ht5H
+^SShq
+EXPSV
+Phl7A
+Ph`7A
+Phl7A
+Ph`7A
+HtEHt7
+j"Yf;
+1t+Ht
+HtOHt^HtBHu#
+Wj<_WS
+PWhx8A
+u!hp8A
+Ph`8A
+Ph`8A
+8_^9]
+HtoHt>
+Ph|:A
+Ph@:A
+t0SSSj
+j0j~
+?vNj@_+
+<B@II;
+F _^[]
+FAA;t$
+FAA;u
+QQSVWh
+@v*9G
+@v*9G
+Phx;A
+Sh(<A
+- ???
+%.*s(%d)%s
+YNANRC
+bad allocation
+__rar_
+?*<>|"
+*messages***
+SetDllDirectoryW
+Z2fQ`E
+InitCommonControlsEx
+COMCTL32.dll
+SHAutoComplete
+SHLWAPI.dll
+GetCurrentDirectoryW
+GetLastError
+SetLastError
+CloseHandle
+GetCurrentProcess
+SetFileTime
+MoveFileW
+SetFilePointer
+SetEndOfFile
+GetFileType
+CreateFileA
+CreateFileW
+ReadFile
+GetStdHandle
+WriteFile
+GetFileAttributesA
+GetFileAttributesW
+SetFileAttributesA
+SetFileAttributesW
+DeleteFileW
+DeleteFileA
+CreateDirectoryA
+CreateDirectoryW
+FindClose
+FindNextFileA
+FindFirstFileA
+FindNextFileW
+FindFirstFileW
+GetTickCount
+WideCharToMultiByte
+GlobalAlloc
+GetVersionExW
+GetFullPathNameA
+GetFullPathNameW
+GetModuleFileNameW
+FindResourceW
+GetModuleHandleW
+HeapAlloc
+GetProcessHeap
+HeapFree
+HeapReAlloc
+CompareStringA
+ExitProcess
+GetLocaleInfoW
+GetNumberFormatW
+DosDateTimeToFileTime
+GetDateFormatW
+GetTimeFormatW
+FileTimeToSystemTime
+FileTimeToLocalFileTime
+ExpandEnvironmentStringsW
+WaitForSingleObject
+Sleep
+GetTempPathW
+MoveFileExW
+UnmapViewOfFile
+GetCommandLineW
+MapViewOfFile
+CreateFileMappingW
+OpenFileMappingW
+SetEnvironmentVariableW
+GetProcAddress
+LocalFileTimeToFileTime
+SystemTimeToFileTime
+GetSystemTime
+MultiByteToWideChar
+CompareStringW
+IsDBCSLeadByte
+GetCPInfo
+SetCurrentDirectoryW
+LoadLibraryW
+FreeLibrary
+KERNEL32.dll
+OemToCharBuffA
+EnableWindow
+GetDlgItem
+ShowWindow
+MessageBoxW
+CharToOemBuffW
+IsWindow
+CopyRect
+GetClientRect
+DestroyWindow
+DispatchMessageW
+TranslateMessage
+GetMessageW
+PeekMessageW
+DefWindowProcW
+GetWindowLongW
+SetWindowLongW
+RegisterClassExW
+LoadCursorW
+SetWindowTextW
+UpdateWindow
+CreateWindowExW
+MapWindowPoints
+GetParent
+GetWindowRect
+CharUpperW
+GetWindow
+GetSystemMetrics
+GetWindowTextW
+SetWindowPos
+LoadStringW
+CharToOemBuffA
+CharUpperA
+wvsprintfA
+wvsprintfW
+ReleaseDC
+GetDC
+SendMessageW
+SetDlgItemTextW
+SetFocus
+EndDialog
+DestroyIcon
+SendDlgItemMessageW
+GetDlgItemTextW
+GetClassNameW
+DialogBoxParamW
+IsWindowVisible
+WaitForInputIdle
+SetForegroundWindow
+GetSysColor
+PostMessageW
+LoadBitmapW
+LoadIconW
+CharToOemA
+OemToCharA
+FindWindowExW
+USER32.dll
+DeleteDC
+StretchBlt
+SelectObject
+CreateCompatibleBitmap
+GetObjectW
+CreateCompatibleDC
+GetDeviceCaps
+DeleteObject
+GDI32.dll
+CommDlgExtendedError
+GetSaveFileNameW
+GetOpenFileNameW
+COMDLG32.dll
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+OpenProcessToken
+SetFileSecurityA
+SetFileSecurityW
+RegCloseKey
+RegSetValueExW
+RegCreateKeyExW
+RegQueryValueExW
+RegOpenKeyExW
+ADVAPI32.dll
+SHGetPathFromIDListW
+SHBrowseForFolderW
+SHGetMalloc
+SHGetSpecialFolderLocation
+SHGetFileInfoW
+SHFileOperationW
+ShellExecuteExW
+SHChangeNotify
+SHELL32.dll
+CoCreateInstance
+CLSIDFromString
+OleUninitialize
+CreateStreamOnHGlobal
+OleInitialize
+ole32.dll
+OLEAUT32.dll
+WINRAR.SFX
+RSDS/
+d:\Projects\WinRAR\SFX\build\sfxrar32\Release\sfxrar.pdb
+FFF))EE
+FFFF))))))
+ (08@P`p
+gwgw`
+WwS7'u
+gwS37%w`
+r"%wP
+WwR"'P
+Wwgu"'P
+g33WwQ
+g3WwQ
+&&&&$
+&&&&$
+&&&&$$$
+$$$$$
+$$$$$$
+$&&&&&$
+$&&&&&$$
+$&&&&&$$$
+$&&&&&$$$$
+$&&&&&
+$$$$$$$$
+$$$$$$$$$
+&&&&&&
+&&&&&&&
+$&&&&&&&&$
+$&&&&&&&&$
+$&&&&&&&&$$$
+$&&&&&&&&$$$$
+$&&&&&&&&$$$$
+$&&&&&&&&$$$$$$
+$&&&&&&&&
+$$$$$$
+$&&&&&&&&
+$$$$$$
+$$$$$$$$$$$$
+$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$
+$$&$$
+&&$&&
+&&$&&
+&&&&&
+&&&&&&&&&
+&&&&&&&&&
+&&&&&&&&&&&
+PA<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+  version="1.0.0.0"
+  processorArchitecture="*"
+  name="WinRAR SFX"
+  type="win32"/>
+<description>WinRAR SFX module</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+  <security>
+    <requestedPrivileges>
+      <requestedExecutionLevel level="asInvoker"            
+      uiAccess="false"/>
+    </requestedPrivileges>
+  </security>
+</trustInfo>
+<dependency>
+  <dependentAssembly>
+    <assemblyIdentity
+      type="win32"
+      name="Microsoft.Windows.Common-Controls"
+      version="6.0.0.0"
+      processorArchitecture="*"
+      publicKeyToken="6595b64144ccf1df"
+      language="*"/>
+  </dependentAssembly>
+</dependency>
+<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+  <application>
+    <!--The ID below indicates application support for Windows Vista -->
+      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+    <!--The ID below indicates application support for Windows 7 -->
+      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+  </application>
+</compatibility>
+<asmv3:application xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
+  <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+    <dpiAware>true</dpiAware>
+  </asmv3:windowsSettings>
+</asmv3:application>
+</assembly>
+PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDRar!
+msieckc.exe
+,zgyt
+gbDw/
+Q?-aE@
+a7b&>
+5mCx~
+@ us=
+FnBD?
+> QQ{
+ov,HW
+tTDMN.
+|ex^z
+EJG}T
+ok--*
+*- Cw
+&>B;I
++]<vI|^
+?%=@O
+!B%h|
+WQ@\ j
+D&G?W\
+0XD`RP
+xZ-SH
+zs:+n
+Y+'tu
+tji+6
+4H$K
+Z0X03
+GTE Corporation1'0%
+GTE CyberTrust Solutions, Inc.1#0!
+GTE CyberTrust Global Root0
+980813002900Z
+180813235900Z0u1
+GTE Corporation1'0%
+GTE CyberTrust Solutions, Inc.1#0!
+GTE CyberTrust Global Root0
+z~l<S
+7(s`
+GlobalSign Inc1!0
+Cybertrust SureServer CA0
+090216184452Z
+110216184452Z0
+ambermms.syniverse.com1
+US1.0,
+belinda.jablonski@syniverse.com1
+Tampa1$0"
+Syniverse Technologies Inc.1
+Crossroads1
+Florida0\0
+dGf#O
+2000.
+(http://crl.globalsign.net/sureserver.crl0
+GTE Corporation1'0%
+GTE CyberTrust Solutions, Inc.1#0!
+GTE CyberTrust Global Root0
+050216191400Z
+120216235900Z0<1
+GlobalSign Inc1!0
+Cybertrust SureServer CA0
+1!`KF
+>0<0:
+4http://www.public-trust.com/cgi-bin/CRL/2018/cdp.crl0
+dGf#O
+N0L0J
+20=0;
+/http://www.public-trust.com/CPS/SureServer.html0
+GTE Corporation1'0%
+GTE CyberTrust Solutions, Inc.1#0!
+GTE CyberTrust Global Root
+0K0<1
+GlobalSign Inc1!0
+Cybertrust SureServer CA
